@@ -9,7 +9,6 @@ Example:
 Type `StackPa` then select the StackPanel option:
 
 ```
-html 
 <StackPanel|>
     |
 </StackPanel>
@@ -20,7 +19,6 @@ Your typing cursor will be on two positions. By default it will appear on the fi
 If you type the tag name with `\` at beginning like: `\StackPanel` you will get a single tag:
 
 ```
-html
 <StackPanel />
 ```
 
