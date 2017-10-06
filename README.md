@@ -34,6 +34,10 @@ Please, note that to the markup be highlight you need to use Fuse language exten
 
 No one
 
+## Repository
+
+https://github.com/JonataCSantos/FuseAutoComplete
+
 ## Release Notes
 
 Type tags from Fuse UX to autocomplete.
@@ -41,3 +45,4 @@ Type tags from Fuse UX to autocomplete.
 ### 1.0.0
 
 Initial release of Fuse Auto Complete Markup
+
