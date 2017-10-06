@@ -2,7 +2,7 @@
     "name": "fuseautocomplete",
     "displayName": "FuseAutoComplete",
     "description": "Fuse Markup AutoComplete",
-    "version": "1.0.1",
+    "version": "1.0.3",
     "publisher": "QuantumLabs",
     "engines": {
         "vscode": "^0.10.5"
@@ -17,5 +17,6 @@
                 "path": "./snippets/snippets.json"
             }
         ]
-    }
+    },
+    "repository": "https://github.com/JonataCSantos/FuseAutoComplete"
 }
