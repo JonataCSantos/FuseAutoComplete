@@ -1,0 +1,2206 @@
+{
+        "Activated":{
+            "prefix": "Activated",
+            "body": "<Activated${1:}>\n\t${2:}\n</Activated>",
+            "description": "Activated"
+        },"ActivatingAnimation":{
+            "prefix": "ActivatingAnimation",
+            "body": "<ActivatingAnimation${1:}>\n\t${2:}\n</ActivatingAnimation>",
+            "description": "ActivatingAnimation"
+        },"AddingAnimation":{
+            "prefix": "AddingAnimation",
+            "body": "<AddingAnimation${1:}>\n\t${2:}\n</AddingAnimation>",
+            "description": "AddingAnimation"
+        },"AlternateRoot":{
+            "prefix": "AlternateRoot",
+            "body": "<AlternateRoot${1:}>\n\t${2:}\n</AlternateRoot>",
+            "description": "AlternateRoot"
+        },"Android":{
+            "prefix": "Android",
+            "body": "<Android${1:}>\n\t${2:}\n</Android>",
+            "description": "Android"
+        },"Arc":{
+            "prefix": "Arc",
+            "body": "<Arc${1:}>\n\t${2:}\n</Arc>",
+            "description": "Arc"
+        },"Attractor":{
+            "prefix": "Attractor",
+            "body": "<Attractor${1:}>\n\t${2:}\n</Attractor>",
+            "description": "Attractor"
+        },"BackButton":{
+            "prefix": "BackButton",
+            "body": "<BackButton${1:}>\n\t${2:}\n</BackButton>",
+            "description": "BackButton"
+        },"Blur":{
+            "prefix": "Blur",
+            "body": "<Blur${1:}>\n\t${2:}\n</Blur>",
+            "description": "Blur"
+        },"BottomBarBackground":{
+            "prefix": "BottomBarBackground",
+            "body": "<BottomBarBackground${1:}>\n\t${2:}\n</BottomBarBackground>",
+            "description": "BottomBarBackground"
+        },"BottomFrameBackground":{
+            "prefix": "BottomFrameBackground",
+            "body": "<BottomFrameBackground${1:}>\n\t${2:}\n</BottomFrameBackground>",
+            "description": "BottomFrameBackground"
+        },"Busy":{
+            "prefix": "Busy",
+            "body": "<Busy${1:}>\n\t${2:}\n</Busy>",
+            "description": "Busy"
+        },"Button":{
+            "prefix": "Button",
+            "body": "<Button${1:}>\n\t${2:}\n</Button>",
+            "description": "Button"
+        },"ButtonBase":{
+            "prefix": "ButtonBase",
+            "body": "<ButtonBase${1:}>\n\t${2:}\n</ButtonBase>",
+            "description": "ButtonBase"
+        },"CameraView":{
+            "prefix": "CameraView",
+            "body": "<CameraView${1:}>\n\t${2:}\n</CameraView>",
+            "description": "CameraView"
+        },"Circle":{
+            "prefix": "Circle",
+            "body": "<Circle${1:}>\n\t${2:}\n</Circle>",
+            "description": "Circle"
+        },"CircularRangeBehavior":{
+            "prefix": "CircularRangeBehavior",
+            "body": "<CircularRangeBehavior${1:}>\n\t${2:}\n</CircularRangeBehavior>",
+            "description": "CircularRangeBehavior"
+        },"Clicked":{
+            "prefix": "Clicked",
+            "body": "<Clicked${1:}>\n\t${2:}\n</Clicked>",
+            "description": "Clicked"
+        },"ClientPanel":{
+            "prefix": "ClientPanel",
+            "body": "<ClientPanel${1:}>\n\t${2:}\n</ClientPanel>",
+            "description": "ClientPanel"
+        },"Closure":{
+            "prefix": "Closure",
+            "body": "<Closure${1:}>\n\t${2:}\n</Closure>",
+            "description": "Closure"
+        },"Captures the named":{
+            "prefix": "Captures the named",
+            "body": "<Captures the named${1:}>\n\t${2:}\n</Captures the named>",
+            "description": "Captures the named"
+        },"Completed":{
+            "prefix": "Completed",
+            "body": "<Completed${1:}>\n\t${2:}\n</Completed>",
+            "description": "Completed"
+        },"Container":{
+            "prefix": "Container",
+            "body": "<Container${1:}>\n\t${2:}\n</Container>",
+            "description": "Container"
+        },"ContainingText":{
+            "prefix": "ContainingText",
+            "body": "<ContainingText${1:}>\n\t${2:}\n</ContainingText>",
+            "description": "ContainingText"
+        },"ContentControl":{
+            "prefix": "ContentControl",
+            "body": "<ContentControl${1:}>\n\t${2:}\n</ContentControl>",
+            "description": "ContentControl"
+        },"Curve":{
+            "prefix": "Curve",
+            "body": "<Curve${1:}>\n\t${2:}\n</Curve>",
+            "description": "Curve"
+        },"CurvePoint":{
+            "prefix": "CurvePoint",
+            "body": "<CurvePoint${1:}>\n\t${2:}\n</CurvePoint>",
+            "description": "CurvePoint"
+        },"Deactivated":{
+            "prefix": "Deactivated",
+            "body": "<Deactivated${1:}>\n\t${2:}\n</Deactivated>",
+            "description": "Deactivated"
+        },"DeactivatingAnimation":{
+            "prefix": "DeactivatingAnimation",
+            "body": "<DeactivatingAnimation${1:}>\n\t${2:}\n</DeactivatingAnimation>",
+            "description": "DeactivatingAnimation"
+        },"Deferred":{
+            "prefix": "Deferred",
+            "body": "<Deferred${1:}>\n\t${2:}\n</Deferred>",
+            "description": "Deferred"
+        },"Desaturate":{
+            "prefix": "Desaturate",
+            "body": "<Desaturate${1:}>\n\t${2:}\n</Desaturate>",
+            "description": "Desaturate"
+        },"Deselected":{
+            "prefix": "Deselected",
+            "body": "<Deselected${1:}>\n\t${2:}\n</Deselected>",
+            "description": "Deselected"
+        },"DirectNavigation":{
+            "prefix": "DirectNavigation",
+            "body": "<DirectNavigation${1:}>\n\t${2:}\n</DirectNavigation>",
+            "description": "DirectNavigation"
+        },"DockPanel":{
+            "prefix": "DockPanel",
+            "body": "<DockPanel${1:}>\n\t${2:}\n</DockPanel>",
+            "description": "DockPanel"
+        },"DoubleClicked":{
+            "prefix": "DoubleClicked",
+            "body": "<DoubleClicked${1:}>\n\t${2:}\n</DoubleClicked>",
+            "description": "DoubleClicked"
+        },"DoubleTapped":{
+            "prefix": "DoubleTapped",
+            "body": "<DoubleTapped${1:}>\n\t${2:}\n</DoubleTapped>",
+            "description": "DoubleTapped"
+        },"Draggable":{
+            "prefix": "Draggable",
+            "body": "<Draggable${1:}>\n\t${2:}\n</Draggable>",
+            "description": "Draggable"
+        },"DropShadow":{
+            "prefix": "DropShadow",
+            "body": "<DropShadow${1:}>\n\t${2:}\n</DropShadow>",
+            "description": "DropShadow"
+        },"Duotone":{
+            "prefix": "Duotone",
+            "body": "<Duotone${1:}>\n\t${2:}\n</Duotone>",
+            "description": "Duotone"
+        },"Each":{
+            "prefix": "Each",
+            "body": "<Each Items=\"{${1:}}\">\n\t${2:}\n</Each>",
+            "description": "Each"
+        },"EdgeNavigation":{
+            "prefix": "EdgeNavigation",
+            "body": "<EdgeNavigation${1:}>\n\t${2:}\n</EdgeNavigation>",
+            "description": "EdgeNavigation"
+        },"EdgeNavigator":{
+            "prefix": "EdgeNavigator",
+            "body": "<EdgeNavigator${1:}>\n\t${2:}\n</EdgeNavigator>",
+            "description": "EdgeNavigator"
+        },"EdgeSwipeAnimation":{
+            "prefix": "EdgeSwipeAnimation",
+            "body": "<EdgeSwipeAnimation${1:}>\n\t${2:}\n</EdgeSwipeAnimation>",
+            "description": "EdgeSwipeAnimation"
+        },"Ellipse":{
+            "prefix": "Ellipse",
+            "body": "<Ellipse${1:}>\n\t${2:}\n</Ellipse>",
+            "description": "Ellipse"
+        },"EnteredForceField":{
+            "prefix": "EnteredForceField",
+            "body": "<EnteredForceField${1:}>\n\t${2:}\n</EnteredForceField>",
+            "description": "EnteredForceField"
+        },"EnteringAnimation":{
+            "prefix": "EnteringAnimation",
+            "body": "<EnteringAnimation${1:}>\n\t${2:}\n</EnteringAnimation>",
+            "description": "EnteringAnimation"
+        },"ExitedForceField":{
+            "prefix": "ExitedForceField",
+            "body": "<ExitedForceField${1:}>\n\t${2:}\n</ExitedForceField>",
+            "description": "ExitedForceField"
+        },"ExitingAnimation":{
+            "prefix": "ExitingAnimation",
+            "body": "<ExitingAnimation${1:}>\n\t${2:}\n</ExitingAnimation>",
+            "description": "ExitingAnimation"
+        },"GraphicsView":{
+            "prefix": "GraphicsView",
+            "body": "<GraphicsView${1:}>\n\t${2:}\n</GraphicsView>",
+            "description": "GraphicsView"
+        },"Grid":{
+            "prefix": "Grid",
+            "body": "<Grid${1:}>\n\t${2:}\n</Grid>",
+            "description": "Grid"
+        },"Halftone":{
+            "prefix": "Halftone",
+            "body": "<Halftone${1:}>\n\t${2:}\n</Halftone>",
+            "description": "Halftone"
+        },"HierarchicalNavigation":{
+            "prefix": "HierarchicalNavigation",
+            "body": "<HierarchicalNavigation${1:}>\n\t${2:}\n</HierarchicalNavigation>",
+            "description": "HierarchicalNavigation"
+        },"Image":{
+            "prefix": "Image",
+            "body": "<Image${1:}>\n\t${2:}\n</Image>",
+            "description": "Image"
+        },"InForceFieldAnimation":{
+            "prefix": "InForceFieldAnimation",
+            "body": "<InForceFieldAnimation${1:}>\n\t${2:}\n</InForceFieldAnimation>",
+            "description": "InForceFieldAnimation"
+        },"Instance":{
+            "prefix": "Instance",
+            "body": "<Instance${1:}>\n\t${2:}\n</Instance>",
+            "description": "Instance"
+        },"InteractionCompleted":{
+            "prefix": "InteractionCompleted",
+            "body": "<InteractionCompleted${1:}>\n\t${2:}\n</InteractionCompleted>",
+            "description": "InteractionCompleted"
+        },"iOS":{
+            "prefix": "iOS",
+            "body": "<iOS${1:}>\n\t${2:}\n</iOS>",
+            "description": "iOS"
+        },"JavaScript":{
+            "prefix": "JavaScript",
+            "body": "<JavaScript${1:}>\n\t${2:}\n</JavaScript>",
+            "description": "JavaScript"
+        },"JavaScriptTest":{
+            "prefix": "JavaScriptTest",
+            "body": "<JavaScriptTest${1:}>\n\t${2:}\n</JavaScriptTest>",
+            "description": "JavaScriptTest"
+        },"KeepFocusInView":{
+            "prefix": "KeepFocusInView",
+            "body": "<KeepFocusInView${1:}>\n\t${2:}\n</KeepFocusInView>",
+            "description": "KeepFocusInView"
+        },"KeepInView":{
+            "prefix": "KeepInView",
+            "body": "<KeepInView${1:}>\n\t${2:}\n</KeepInView>",
+            "description": "KeepInView"
+        },"LayoutAnimation":{
+            "prefix": "LayoutAnimation",
+            "body": "<LayoutAnimation${1:}>\n\t${2:}\n</LayoutAnimation>",
+            "description": "LayoutAnimation"
+        },"LayoutControl":{
+            "prefix": "LayoutControl",
+            "body": "<LayoutControl${1:}>\n\t${2:}\n</LayoutControl>",
+            "description": "LayoutControl"
+        },"LinearNavigation":{
+            "prefix": "LinearNavigation",
+            "body": "<LinearNavigation${1:}>\n\t${2:}\n</LinearNavigation>",
+            "description": "LinearNavigation"
+        },"LinearRangeBehavior":{
+            "prefix": "LinearRangeBehavior",
+            "body": "<LinearRangeBehavior${1:}>\n\t${2:}\n</LinearRangeBehavior>",
+            "description": "LinearRangeBehavior"
+        },"LongPressed":{
+            "prefix": "LongPressed",
+            "body": "<LongPressed${1:}>\n\t${2:}\n</LongPressed>",
+            "description": "LongPressed"
+        },"MapMarker":{
+            "prefix": "MapMarker",
+            "body": "<MapMarker${1:}>\n\t${2:}\n</MapMarker>",
+            "description": "MapMarker"
+        },"MapView":{
+            "prefix": "MapView",
+            "body": "<MapView${1:}>\n\t${2:}\n</MapView>",
+            "description": "MapView"
+        },"Mask":{
+            "prefix": "Mask",
+            "body": "<Mask${1:}>\n\t${2:}\n</Mask>",
+            "description": "Mask"
+        },"Match":{
+            "prefix": "Match",
+            "body": "<Match${1:}>\n\t${2:}\n</Match>",
+            "description": "Match"
+        },"MultiLayout":{
+            "prefix": "MultiLayout",
+            "body": "<MultiLayout${1:}>\n\t${2:}\n</MultiLayout>",
+            "description": "MultiLayout"
+        },"MultiLayoutPanel":{
+            "prefix": "MultiLayoutPanel",
+            "body": "<MultiLayoutPanel${1:}>\n\t${2:}\n</MultiLayoutPanel>",
+            "description": "MultiLayoutPanel"
+        },"NativeViewHost":{
+            "prefix": "NativeViewHost",
+            "body": "<NativeViewHost${1:}>\n\t${2:}\n</NativeViewHost>",
+            "description": "NativeViewHost"
+        },"NavigationBar":{
+            "prefix": "NavigationBar",
+            "body": "<NavigationBar${1:}>\n\t${2:}\n</NavigationBar>",
+            "description": "NavigationBar"
+        },"Navigator":{
+            "prefix": "Navigator",
+            "body": "<Navigator${1:}>\n\t${2:}\n</Navigator>",
+            "description": "Navigator"
+        },"NavigatorSwipe":{
+            "prefix": "NavigatorSwipe",
+            "body": "<NavigatorSwipe${1:}>\n\t${2:}\n</NavigatorSwipe>",
+            "description": "NavigatorSwipe"
+        },"NodeGroup":{
+            "prefix": "NodeGroup",
+            "body": "<NodeGroup${1:}>\n\t${2:}\n</NodeGroup>",
+            "description": "NodeGroup"
+        },"Number":{
+            "prefix": "Number",
+            "body": "<Number${1:}>\n\t${2:}\n</Number>",
+            "description": "Number"
+        },"OnBackButton":{
+            "prefix": "OnBackButton",
+            "body": "<OnBackButton${1:}>\n\t${2:}\n</OnBackButton>",
+            "description": "OnBackButton"
+        },"OnKeyPress":{
+            "prefix": "OnKeyPress",
+            "body": "<OnKeyPress${1:}>\n\t${2:}\n</OnKeyPress>",
+            "description": "OnKeyPress"
+        },"OnUserEvent":{
+            "prefix": "OnUserEvent",
+            "body": "<OnUserEvent${1:}>\n\t${2:}\n</OnUserEvent>",
+            "description": "OnUserEvent"
+        },"Page":{
+            "prefix": "Page",
+            "body": "<Page${1:}>\n\t${2:}\n</Page>",
+            "description": "Page"
+        },"PageBeginLoading":{
+            "prefix": "PageBeginLoading",
+            "body": "<PageBeginLoading${1:}>\n\t${2:}\n</PageBeginLoading>",
+            "description": "PageBeginLoading"
+        },"PageControl":{
+            "prefix": "PageControl",
+            "body": "<PageControl${1:}>\n\t${2:}\n</PageControl>",
+            "description": "PageControl"
+        },"PageIndicator":{
+            "prefix": "PageIndicator",
+            "body": "<PageIndicator${1:}>\n\t${2:}\n</PageIndicator>",
+            "description": "PageIndicator"
+        },"PageIndicatorDot":{
+            "prefix": "PageIndicatorDot",
+            "body": "<PageIndicatorDot${1:}>\n\t${2:}\n</PageIndicatorDot>",
+            "description": "PageIndicatorDot"
+        },"PageLoaded":{
+            "prefix": "PageLoaded",
+            "body": "<PageLoaded${1:}>\n\t${2:}\n</PageLoaded>",
+            "description": "PageLoaded"
+        },"PageResourceBinding":{
+            "prefix": "PageResourceBinding",
+            "body": "<PageResourceBinding${1:}>\n\t${2:}\n</PageResourceBinding>",
+            "description": "PageResourceBinding"
+        },"PageView":{
+            "prefix": "PageView",
+            "body": "<PageView${1:}>\n\t${2:}\n</PageView>",
+            "description": "PageView"
+        },"Panel":{
+            "prefix": "Panel",
+            "body": "<Panel${1:}>\n\t${2:}\n</Panel>",
+            "description": "Panel"
+        },"PanGesture":{
+            "prefix": "PanGesture",
+            "body": "<PanGesture${1:}>\n\t${2:}\n</PanGesture>",
+            "description": "PanGesture"
+        },"Path":{
+            "prefix": "Path",
+            "body": "<Path${1:}>\n\t${2:}\n</Path>",
+            "description": "Path"
+        },"Placeholder":{
+            "prefix": "Placeholder",
+            "body": "<Placeholder${1:}>\n\t${2:}\n</Placeholder>",
+            "description": "Placeholder"
+        },"Plot":{
+            "prefix": "Plot",
+            "body": "<Plot${1:}>\n\t${2:}\n</Plot>",
+            "description": "Plot"
+        },"PlotArea":{
+            "prefix": "PlotArea",
+            "body": "<PlotArea${1:}>\n\t${2:}\n</PlotArea>",
+            "description": "PlotArea"
+        },"PlotAxis":{
+            "prefix": "PlotAxis",
+            "body": "<PlotAxis${1:}>\n\t${2:}\n</PlotAxis>",
+            "description": "PlotAxis"
+        },"PlotAxisData":{
+            "prefix": "PlotAxisData",
+            "body": "<PlotAxisData${1:}>\n\t${2:}\n</PlotAxisData>",
+            "description": "PlotAxisData"
+        },"PlotBar":{
+            "prefix": "PlotBar",
+            "body": "<PlotBar${1:}>\n\t${2:}\n</PlotBar>",
+            "description": "PlotBar"
+        },"PlotCurvePoint":{
+            "prefix": "PlotCurvePoint",
+            "body": "<PlotCurvePoint${1:}>\n\t${2:}\n</PlotCurvePoint>",
+            "description": "PlotCurvePoint"
+        },"PlotData":{
+            "prefix": "PlotData",
+            "body": "<PlotData${1:}>\n\t${2:}\n</PlotData>",
+            "description": "PlotData"
+        },"PlotPoint":{
+            "prefix": "PlotPoint",
+            "body": "<PlotPoint${1:}>\n\t${2:}\n</PlotPoint>",
+            "description": "PlotPoint"
+        },"PlotTicks":{
+            "prefix": "PlotTicks",
+            "body": "<PlotTicks${1:}>\n\t${2:}\n</PlotTicks>",
+            "description": "PlotTicks"
+        },"PlotWedge":{
+            "prefix": "PlotWedge",
+            "body": "<PlotWedge${1:}>\n\t${2:}\n</PlotWedge>",
+            "description": "PlotWedge"
+        },"PointAttractor":{
+            "prefix": "PointAttractor",
+            "body": "<PointAttractor${1:}>\n\t${2:}\n</PointAttractor>",
+            "description": "PointAttractor"
+        },"PointerCapture":{
+            "prefix": "PointerCapture",
+            "body": "<PointerCapture${1:}>\n\t${2:}\n</PointerCapture>",
+            "description": "PointerCapture"
+        },"Pressed":{
+            "prefix": "Pressed",
+            "body": "<Pressed${1:}>\n\t${2:}\n</Pressed>",
+            "description": "Pressed"
+        },"ProgressAnimation":{
+            "prefix": "ProgressAnimation",
+            "body": "<ProgressAnimation${1:}>\n\t${2:}\n</ProgressAnimation>",
+            "description": "ProgressAnimation"
+        },"PullToReload":{
+            "prefix": "PullToReload",
+            "body": "<PullToReload${1:}>\n\t${2:}\n</PullToReload>",
+            "description": "PullToReload"
+        },"RangeAdapter":{
+            "prefix": "RangeAdapter",
+            "body": "<RangeAdapter${1:}>\n\t${2:}\n</RangeAdapter>",
+            "description": "RangeAdapter"
+        },"RangeAnimation":{
+            "prefix": "RangeAnimation",
+            "body": "<RangeAnimation${1:}>\n\t${2:}\n</RangeAnimation>",
+            "description": "RangeAnimation"
+        },"RangeControl":{
+            "prefix": "RangeControl",
+            "body": "<RangeControl${1:}>\n\t${2:}\n</RangeControl>",
+            "description": "RangeControl"
+        },"RangeControl2D":{
+            "prefix": "RangeControl2D",
+            "body": "<RangeControl2D${1:}>\n\t${2:}\n</RangeControl2D>",
+            "description": "RangeControl2D"
+        },"Rectangle":{
+            "prefix": "Rectangle",
+            "body": "<Rectangle Height=\"${1:}\">\n\t${2:}\n</Rectangle>",
+            "description": "Rectangle"
+        },"RegularPolygon":{
+            "prefix": "RegularPolygon",
+            "body": "<RegularPolygon${1:}>\n\t${2:}\n</RegularPolygon>",
+            "description": "RegularPolygon"
+        },"Released":{
+            "prefix": "Released",
+            "body": "<Released${1:}>\n\t${2:}\n</Released>",
+            "description": "Released"
+        },"RemovingAnimation":{
+            "prefix": "RemovingAnimation",
+            "body": "<RemovingAnimation${1:}>\n\t${2:}\n</RemovingAnimation>",
+            "description": "RemovingAnimation"
+        },"ResourceBool":{
+            "prefix": "ResourceBool",
+            "body": "<ResourceBool${1:}>\n\t${2:}\n</ResourceBool>",
+            "description": "ResourceBool"
+        },"ResourceFloat":{
+            "prefix": "ResourceFloat",
+            "body": "<ResourceFloat${1:}>\n\t${2:}\n</ResourceFloat>",
+            "description": "ResourceFloat"
+        },"ResourceFloat2":{
+            "prefix": "ResourceFloat2",
+            "body": "<ResourceFloat2${1:}>\n\t${2:}\n</ResourceFloat2>",
+            "description": "ResourceFloat2"
+        },"ResourceFloat3":{
+            "prefix": "ResourceFloat3",
+            "body": "<ResourceFloat3${1:}>\n\t${2:}\n</ResourceFloat3>",
+            "description": "ResourceFloat3"
+        },"ResourceFloat4":{
+            "prefix": "ResourceFloat4",
+            "body": "<ResourceFloat4${1:}>\n\t${2:}\n</ResourceFloat4>",
+            "description": "ResourceFloat4"
+        },"ResourceObject":{
+            "prefix": "ResourceObject",
+            "body": "<ResourceObject${1:}>\n\t${2:}\n</ResourceObject>",
+            "description": "ResourceObject"
+        },"ResourceString":{
+            "prefix": "ResourceString",
+            "body": "<ResourceString${1:}>\n\t${2:}\n</ResourceString>",
+            "description": "ResourceString"
+        },"RightFrameBackground":{
+            "prefix": "RightFrameBackground",
+            "body": "<RightFrameBackground${1:}>\n\t${2:}\n</RightFrameBackground>",
+            "description": "RightFrameBackground"
+        },"RootGraphicsView":{
+            "prefix": "RootGraphicsView",
+            "body": "<RootGraphicsView${1:}>\n\t${2:}\n</RootGraphicsView>",
+            "description": "RootGraphicsView"
+        },"RotateGesture":{
+            "prefix": "RotateGesture",
+            "body": "<RotateGesture${1:}>\n\t${2:}\n</RotateGesture>",
+            "description": "RotateGesture"
+        },"Rotation":{
+            "prefix": "Rotation",
+            "body": "<Rotation${1:}>\n\t${2:}\n</Rotation>",
+            "description": "Rotation"
+        },"Router":{
+            "prefix": "Router",
+            "body": "<Router${1:}>\n\t${2:}\n</Router>",
+            "description": "Router"
+        },"Scaling":{
+            "prefix": "Scaling",
+            "body": "<Scaling${1:}>\n\t${2:}\n</Scaling>",
+            "description": "Scaling"
+        },"Scrolled":{
+            "prefix": "Scrolled",
+            "body": "<Scrolled${1:}>\n\t${2:}\n</Scrolled>",
+            "description": "Scrolled"
+        },"ScrollingAnimation":{
+            "prefix": "ScrollingAnimation",
+            "body": "<ScrollingAnimation${1:}>\n\t${2:}\n</ScrollingAnimation>",
+            "description": "ScrollingAnimation"
+        },"ScrollView":{
+            "prefix": "ScrollView",
+            "body": "<ScrollView${1:}>\n\t${2:}\n</ScrollView>",
+            "description": "ScrollView"
+        },"ScrollViewBase":{
+            "prefix": "ScrollViewBase",
+            "body": "<ScrollViewBase${1:}>\n\t${2:}\n</ScrollViewBase>",
+            "description": "ScrollViewBase"
+        },"Select":{
+            "prefix": "Select",
+            "body": "<Select${1:}>\n\t${2:}\n</Select>",
+            "description": "Select"
+        },"Selectable":{
+            "prefix": "Selectable",
+            "body": "<Selectable${1:}>\n\t${2:}\n</Selectable>",
+            "description": "Selectable"
+        },"Selected":{
+            "prefix": "Selected",
+            "body": "<Selected${1:}>\n\t${2:}\n</Selected>",
+            "description": "Selected"
+        },"Selection":{
+            "prefix": "Selection",
+            "body": "<Selection${1:}>\n\t${2:}\n</Selection>",
+            "description": "Selection"
+        },"Shadow":{
+            "prefix": "Shadow",
+            "body": "<Shadow${1:}>\n\t${2:}\n</Shadow>",
+            "description": "Shadow"
+        },"Shear":{
+            "prefix": "Shear",
+            "body": "<Shear${1:}>\n\t${2:}\n</Shear>",
+            "description": "Shear"
+        },"Slider":{
+            "prefix": "Slider",
+            "body": "<Slider${1:}>\n\t${2:}\n</Slider>",
+            "description": "Slider"
+        },"Spring":{
+            "prefix": "Spring",
+            "body": "<Spring${1:}>\n\t${2:}\n</Spring>",
+            "description": "Spring"
+        },"StackPanel":{
+            "prefix": "StackPanel",
+            "body": "<StackPanel Orientation=\"${1|Vertical,Horizontal|}\">\n\t${2:}\n</StackPanel>",
+            "description": "StackPanel"
+        },"Star":{
+            "prefix": "Star",
+            "body": "<Star${1:}>\n\t${2:}\n</Star>",
+            "description": "Star"
+        },"State":{
+            "prefix": "State",
+            "body": "<State${1:}>\n\t${2:}\n</State>",
+            "description": "State"
+        },"StateGroup":{
+            "prefix": "StateGroup",
+            "body": "<StateGroup${1:}>\n\t${2:}\n</StateGroup>",
+            "description": "StateGroup"
+        },"StatusBarBackground":{
+            "prefix": "StatusBarBackground",
+            "body": "<StatusBarBackground${1:}>\n\t${2:}\n</StatusBarBackground>",
+            "description": "StatusBarBackground"
+        },"StatusBarConfig":{
+            "prefix": "StatusBarConfig",
+            "body": "<StatusBarConfig${1:}>\n\t${2:}\n</StatusBarConfig>",
+            "description": "StatusBarConfig"
+        },"Swiped":{
+            "prefix": "Swiped",
+            "body": "<Swiped${1:}>\n\t${2:}\n</Swiped>",
+            "description": "Swiped"
+        },"SwipeGesture":{
+            "prefix": "SwipeGesture",
+            "body": "<SwipeGesture${1:}>\n\t${2:}\n</SwipeGesture>",
+            "description": "SwipeGesture"
+        },"SwipeNavigate":{
+            "prefix": "SwipeNavigate",
+            "body": "<SwipeNavigate${1:}>\n\t${2:}\n</SwipeNavigate>",
+            "description": "SwipeNavigate"
+        },"SwipingAnimation":{
+            "prefix": "SwipingAnimation",
+            "body": "<SwipingAnimation${1:}>\n\t${2:}\n</SwipingAnimation>",
+            "description": "SwipingAnimation"
+        },"Switch":{
+            "prefix": "Switch",
+            "body": "<Switch${1:}>\n\t${2:}\n</Switch>",
+            "description": "Switch"
+        },"Tapped":{
+            "prefix": "Tapped",
+            "body": "<Tapped${1:}>\n\t${2:}\n</Tapped>",
+            "description": "Tapped"
+        },"Text":{
+            "prefix": "Text",
+            "body": "<Text${1:}>\n\t${2:}\n</Text>",
+            "description": "Text"
+        },"TextBlock":{
+            "prefix": "TextBlock",
+            "body": "<TextBlock${1:}>\n\t${2:}\n</TextBlock>",
+            "description": "TextBlock"
+        },"TextBox":{
+            "prefix": "TextBox",
+            "body": "<TextBox${1:}>\n\t${2:}\n</TextBox>",
+            "description": "TextBox"
+        },"TextInput":{
+            "prefix": "TextInput",
+            "body": "<TextInput${1:}>\n\t${2:}\n</TextInput>",
+            "description": "TextInput"
+        },"TextInputActionTriggered":{
+            "prefix": "TextInputActionTriggered",
+            "body": "<TextInputActionTriggered${1:}>\n\t${2:}\n</TextInputActionTriggered>",
+            "description": "TextInputActionTriggered"
+        },"TextView":{
+            "prefix": "TextView",
+            "body": "<TextView${1:}>\n\t${2:}\n</TextView>",
+            "description": "TextView"
+        },"Timeline":{
+            "prefix": "Timeline",
+            "body": "<Timeline${1:}>\n\t${2:}\n</Timeline>",
+            "description": "Timeline"
+        },"ToggleControl":{
+            "prefix": "ToggleControl",
+            "body": "<ToggleControl${1:}>\n\t${2:}\n</ToggleControl>",
+            "description": "ToggleControl"
+        },"TopFrameBackground":{
+            "prefix": "TopFrameBackground",
+            "body": "<TopFrameBackground${1:}>\n\t${2:}\n</TopFrameBackground>",
+            "description": "TopFrameBackground"
+        },"Transition":{
+            "prefix": "Transition",
+            "body": "<Transition${1:}>\n\t${2:}\n</Transition>",
+            "description": "Transition"
+        },"Translation":{
+            "prefix": "Translation",
+            "body": "<Translation${1:}>\n\t${2:}\n</Translation>",
+            "description": "Translation"
+        },"UserEvent":{
+            "prefix": "UserEvent",
+            "body": "<UserEvent${1:}>\n\t${2:}\n</UserEvent>",
+            "description": "UserEvent"
+        },"Video":{
+            "prefix": "Video",
+            "body": "<Video${1:}>\n\t${2:}\n</Video>",
+            "description": "Video"
+        },"Viewbox":{
+            "prefix": "Viewbox",
+            "body": "<Viewbox${1:}>\n\t${2:}\n</Viewbox>",
+            "description": "Viewbox"
+        },"WebView":{
+            "prefix": "WebView",
+            "body": "<WebView${1:}>\n\t${2:}\n</WebView>",
+            "description": "WebView"
+        },"WhileActive":{
+            "prefix": "WhileActive",
+            "body": "<WhileActive${1:}>\n\t${2:}\n</WhileActive>",
+            "description": "WhileActive"
+        },"WhileBusy":{
+            "prefix": "WhileBusy",
+            "body": "<WhileBusy${1:}>\n\t${2:}\n</WhileBusy>",
+            "description": "WhileBusy"
+        },"WhileCanGoBack":{
+            "prefix": "WhileCanGoBack",
+            "body": "<WhileCanGoBack${1:}>\n\t${2:}\n</WhileCanGoBack>",
+            "description": "WhileCanGoBack"
+        },"WhileCanGoForward":{
+            "prefix": "WhileCanGoForward",
+            "body": "<WhileCanGoForward${1:}>\n\t${2:}\n</WhileCanGoForward>",
+            "description": "WhileCanGoForward"
+        },"WhileCompleted":{
+            "prefix": "WhileCompleted",
+            "body": "<WhileCompleted${1:}>\n\t${2:}\n</WhileCompleted>",
+            "description": "WhileCompleted"
+        },"WhileContainsText":{
+            "prefix": "WhileContainsText",
+            "body": "<WhileContainsText${1:}>\n\t${2:}\n</WhileContainsText>",
+            "description": "WhileContainsText"
+        },"WhileCount":{
+            "prefix": "WhileCount",
+            "body": "<WhileCount${1:}>\n\t${2:}\n</WhileCount>",
+            "description": "WhileCount"
+        },"WhileDisabled":{
+            "prefix": "WhileDisabled",
+            "body": "<WhileDisabled${1:}>\n\t${2:}\n</WhileDisabled>",
+            "description": "WhileDisabled"
+        },"WhileDragging":{
+            "prefix": "WhileDragging",
+            "body": "<WhileDragging${1:}>\n\t${2:}\n</WhileDragging>",
+            "description": "WhileDragging"
+        },"WhileEmpty":{
+            "prefix": "WhileEmpty",
+            "body": "<WhileEmpty${1:}>\n\t${2:}\n</WhileEmpty>",
+            "description": "WhileEmpty"
+        },"WhileEnabled":{
+            "prefix": "WhileEnabled",
+            "body": "<WhileEnabled${1:}>\n\t${2:}\n</WhileEnabled>",
+            "description": "WhileEnabled"
+        },"WhileFailed":{
+            "prefix": "WhileFailed",
+            "body": "<WhileFailed${1:}>\n\t${2:}\n</WhileFailed>",
+            "description": "WhileFailed"
+        },"WhileFalse":{
+            "prefix": "WhileFalse",
+            "body": "<WhileFalse${1:}>\n\t${2:}\n</WhileFalse>",
+            "description": "WhileFalse"
+        },"WhileFloat":{
+            "prefix": "WhileFloat",
+            "body": "<WhileFloat${1:}>\n\t${2:}\n</WhileFloat>",
+            "description": "WhileFloat"
+        },"WhileFocused":{
+            "prefix": "WhileFocused",
+            "body": "<WhileFocused${1:}>\n\t${2:}\n</WhileFocused>",
+            "description": "WhileFocused"
+        },"WhileFocusWithin":{
+            "prefix": "WhileFocusWithin",
+            "body": "<WhileFocusWithin${1:}>\n\t${2:}\n</WhileFocusWithin>",
+            "description": "WhileFocusWithin"
+        },"WhileHovering":{
+            "prefix": "WhileHovering",
+            "body": "<WhileHovering${1:}>\n\t${2:}\n</WhileHovering>",
+            "description": "WhileHovering"
+        },"WhileInactive":{
+            "prefix": "WhileInactive",
+            "body": "<WhileInactive${1:}>\n\t${2:}\n</WhileInactive>",
+            "description": "WhileInactive"
+        },"WhileInEnterState":{
+            "prefix": "WhileInEnterState",
+            "body": "<WhileInEnterState${1:}>\n\t${2:}\n</WhileInEnterState>",
+            "description": "WhileInEnterState"
+        },"WhileInExitState":{
+            "prefix": "WhileInExitState",
+            "body": "<WhileInExitState${1:}>\n\t${2:}\n</WhileInExitState>",
+            "description": "WhileInExitState"
+        },"WhileInteracting":{
+            "prefix": "WhileInteracting",
+            "body": "<WhileInteracting${1:}>\n\t${2:}\n</WhileInteracting>",
+            "description": "WhileInteracting"
+        },"WhileKeyboardVisible":{
+            "prefix": "WhileKeyboardVisible",
+            "body": "<WhileKeyboardVisible${1:}>\n\t${2:}\n</WhileKeyboardVisible>",
+            "description": "WhileKeyboardVisible"
+        },"WhileLoading":{
+            "prefix": "WhileLoading",
+            "body": "<WhileLoading${1:}>\n\t${2:}\n</WhileLoading>",
+            "description": "WhileLoading"
+        },"WhileNavigating":{
+            "prefix": "WhileNavigating",
+            "body": "<WhileNavigating${1:}>\n\t${2:}\n</WhileNavigating>",
+            "description": "WhileNavigating"
+        },"WhileNotEmpty":{
+            "prefix": "WhileNotEmpty",
+            "body": "<WhileNotEmpty${1:}>\n\t${2:}\n</WhileNotEmpty>",
+            "description": "WhileNotEmpty"
+        },"WhileNotFocused":{
+            "prefix": "WhileNotFocused",
+            "body": "<WhileNotFocused${1:}>\n\t${2:}\n</WhileNotFocused>",
+            "description": "WhileNotFocused"
+        },"WhilePageActive":{
+            "prefix": "WhilePageActive",
+            "body": "<WhilePageActive${1:}>\n\t${2:}\n</WhilePageActive>",
+            "description": "WhilePageActive"
+        },"WhilePageLoading":{
+            "prefix": "WhilePageLoading",
+            "body": "<WhilePageLoading${1:}>\n\t${2:}\n</WhilePageLoading>",
+            "description": "WhilePageLoading"
+        },"WhilePaused":{
+            "prefix": "WhilePaused",
+            "body": "<WhilePaused${1:}>\n\t${2:}\n</WhilePaused>",
+            "description": "WhilePaused"
+        },"WhilePlaying":{
+            "prefix": "WhilePlaying",
+            "body": "<WhilePlaying${1:}>\n\t${2:}\n</WhilePlaying>",
+            "description": "WhilePlaying"
+        },"WhilePressed":{
+            "prefix": "WhilePressed",
+            "body": "<WhilePressed${1:}>\n\t${2:}\n</WhilePressed>",
+            "description": "WhilePressed"
+        },"WhileScrollable":{
+            "prefix": "WhileScrollable",
+            "body": "<WhileScrollable${1:}>\n\t${2:}\n</WhileScrollable>",
+            "description": "WhileScrollable"
+        },"WhileScrolled":{
+            "prefix": "WhileScrolled",
+            "body": "<WhileScrolled${1:}>\n\t${2:}\n</WhileScrolled>",
+            "description": "WhileScrolled"
+        },"WhileSelected":{
+            "prefix": "WhileSelected",
+            "body": "<WhileSelected${1:}>\n\t${2:}\n</WhileSelected>",
+            "description": "WhileSelected"
+        },"WhileString":{
+            "prefix": "WhileString",
+            "body": "<WhileString${1:}>\n\t${2:}\n</WhileString>",
+            "description": "WhileString"
+        },"WhileSwipeActive":{
+            "prefix": "WhileSwipeActive",
+            "body": "<WhileSwipeActive${1:}>\n\t${2:}\n</WhileSwipeActive>",
+            "description": "WhileSwipeActive"
+        },"WhileSwiping":{
+            "prefix": "WhileSwiping",
+            "body": "<WhileSwiping${1:}>\n\t${2:}\n</WhileSwiping>",
+            "description": "WhileSwiping"
+        },"WhileTrue":{
+            "prefix": "WhileTrue",
+            "body": "<WhileTrue${1:}>\n\t${2:}\n</WhileTrue>",
+            "description": "WhileTrue"
+        },"WhileVisible":{
+            "prefix": "WhileVisible",
+            "body": "<WhileVisible${1:}>\n\t${2:}\n</WhileVisible>",
+            "description": "WhileVisible"
+        },"WhileVisibleInScrollView":{
+            "prefix": "WhileVisibleInScrollView",
+            "body": "<WhileVisibleInScrollView${1:}>\n\t${2:}\n</WhileVisibleInScrollView>",
+            "description": "WhileVisibleInScrollView"
+        },"WhileWindowLandscape":{
+            "prefix": "WhileWindowLandscape",
+            "body": "<WhileWindowLandscape${1:}>\n\t${2:}\n</WhileWindowLandscape>",
+            "description": "WhileWindowLandscape"
+        },"WhileWindowPortrait":{
+            "prefix": "WhileWindowPortrait",
+            "body": "<WhileWindowPortrait${1:}>\n\t${2:}\n</WhileWindowPortrait>",
+            "description": "WhileWindowPortrait"
+        },"WhileWindowSize":{
+            "prefix": "WhileWindowSize",
+            "body": "<WhileWindowSize${1:}>\n\t${2:}\n</WhileWindowSize>",
+            "description": "WhileWindowSize"
+        },"With":{
+            "prefix": "With",
+            "body": "<With${1:}>\n\t${2:}\n</With>",
+            "description": "With"
+        },"WrapPanel":{
+            "prefix": "WrapPanel",
+            "body": "<WrapPanel${1:}>\n\t${2:}\n</WrapPanel>",
+            "description": "WrapPanel"
+        },"ZoomGesture":{
+            "prefix": "ZoomGesture",
+            "body": "<ZoomGesture${1:}>\n\t${2:}\n</ZoomGesture>",
+            "description": "ZoomGesture"
+        },"Change":{
+            "prefix": "Change",
+            "body": "<Change${1:}>\n\t${2:}\n</Change>",
+            "description": "Change"
+        },"Cycle":{
+            "prefix": "Cycle",
+            "body": "<Cycle${1:}>\n\t${2:}\n</Cycle>",
+            "description": "Cycle"
+        },"Move":{
+            "prefix": "Move",
+            "body": "<Move${1:}>\n\t${2:}\n</Move>",
+            "description": "Move"
+        },"Nothing":{
+            "prefix": "Nothing",
+            "body": "<Nothing${1:}>\n\t${2:}\n</Nothing>",
+            "description": "Nothing"
+        },"Resize":{
+            "prefix": "Resize",
+            "body": "<Resize${1:}>\n\t${2:}\n</Resize>",
+            "description": "Resize"
+        },"Rotate":{
+            "prefix": "Rotate",
+            "body": "<Rotate${1:}>\n\t${2:}\n</Rotate>",
+            "description": "Rotate"
+        },"Scale":{
+            "prefix": "Scale",
+            "body": "<Scale${1:}>\n\t${2:}\n</Scale>",
+            "description": "Scale"
+        },"Skew":{
+            "prefix": "Skew",
+            "body": "<Skew${1:}>\n\t${2:}\n</Skew>",
+            "description": "Skew"
+        },"Spin":{
+            "prefix": "Spin",
+            "body": "<Spin${1:}>\n\t${2:}\n</Spin>",
+            "description": "Spin"
+        },"BringIntoView":{
+            "prefix": "BringIntoView",
+            "body": "<BringIntoView${1:}>\n\t${2:}\n</BringIntoView>",
+            "description": "BringIntoView"
+        },"BringToFront":{
+            "prefix": "BringToFront",
+            "body": "<BringToFront${1:}>\n\t${2:}\n</BringToFront>",
+            "description": "BringToFront"
+        },"Call":{
+            "prefix": "Call",
+            "body": "<Call${1:}>\n\t${2:}\n</Call>",
+            "description": "Call"
+        },"Callback":{
+            "prefix": "Callback",
+            "body": "<Callback${1:}>\n\t${2:}\n</Callback>",
+            "description": "Callback"
+        },"CancelInteractions":{
+            "prefix": "CancelInteractions",
+            "body": "<CancelInteractions${1:}>\n\t${2:}\n</CancelInteractions>",
+            "description": "CancelInteractions"
+        },"Collapse":{
+            "prefix": "Collapse",
+            "body": "<Collapse${1:}>\n\t${2:}\n</Collapse>",
+            "description": "Collapse"
+        },"DebugAction":{
+            "prefix": "DebugAction",
+            "body": "<DebugAction${1:}>\n\t${2:}\n</DebugAction>",
+            "description": "DebugAction"
+        },"EvaluateJS":{
+            "prefix": "EvaluateJS",
+            "body": "<EvaluateJS${1:}>\n\t${2:}\n</EvaluateJS>",
+            "description": "EvaluateJS"
+        },"GiveFocus":{
+            "prefix": "GiveFocus",
+            "body": "<GiveFocus${1:}>\n\t${2:}\n</GiveFocus>",
+            "description": "GiveFocus"
+        },"GoBack":{
+            "prefix": "GoBack",
+            "body": "<GoBack${1:}>\n\t${2:}\n</GoBack>",
+            "description": "GoBack"
+        },"GoForward":{
+            "prefix": "GoForward",
+            "body": "<GoForward${1:}>\n\t${2:}\n</GoForward>",
+            "description": "GoForward"
+        },"Hide":{
+            "prefix": "Hide",
+            "body": "<Hide${1:}>\n\t${2:}\n</Hide>",
+            "description": "Hide"
+        },"LaunchEmail":{
+            "prefix": "LaunchEmail",
+            "body": "<LaunchEmail${1:}>\n\t${2:}\n</LaunchEmail>",
+            "description": "LaunchEmail"
+        },"LaunchMaps":{
+            "prefix": "LaunchMaps",
+            "body": "<LaunchMaps${1:}>\n\t${2:}\n</LaunchMaps>",
+            "description": "LaunchMaps"
+        },"LaunchUri":{
+            "prefix": "LaunchUri",
+            "body": "<LaunchUri${1:}>\n\t${2:}\n</LaunchUri>",
+            "description": "LaunchUri"
+        },"LoadHtml":{
+            "prefix": "LoadHtml",
+            "body": "<LoadHtml${1:}>\n\t${2:}\n</LoadHtml>",
+            "description": "LoadHtml"
+        },"LoadUrl":{
+            "prefix": "LoadUrl",
+            "body": "<LoadUrl${1:}>\n\t${2:}\n</LoadUrl>",
+            "description": "LoadUrl"
+        },"NavigateTo":{
+            "prefix": "NavigateTo",
+            "body": "<NavigateTo${1:}>\n\t${2:}\n</NavigateTo>",
+            "description": "NavigateTo"
+        },"NavigateToggle":{
+            "prefix": "NavigateToggle",
+            "body": "<NavigateToggle${1:}>\n\t${2:}\n</NavigateToggle>",
+            "description": "NavigateToggle"
+        },"Pause":{
+            "prefix": "Pause",
+            "body": "<Pause${1:}>\n\t${2:}\n</Pause>",
+            "description": "Pause"
+        },"Play":{
+            "prefix": "Play",
+            "body": "<Play${1:}>\n\t${2:}\n</Play>",
+            "description": "Play"
+        },"PlaySound":{
+            "prefix": "PlaySound",
+            "body": "<PlaySound${1:}>\n\t${2:}\n</PlaySound>",
+            "description": "PlaySound"
+        },"PlayTo":{
+            "prefix": "PlayTo",
+            "body": "<PlayTo${1:}>\n\t${2:}\n</PlayTo>",
+            "description": "PlayTo"
+        },"Pulse":{
+            "prefix": "Pulse",
+            "body": "<Pulse${1:}>\n\t${2:}\n</Pulse>",
+            "description": "Pulse"
+        },"PulseBackward":{
+            "prefix": "PulseBackward",
+            "body": "<PulseBackward${1:}>\n\t${2:}\n</PulseBackward>",
+            "description": "PulseBackward"
+        },"PulseForward":{
+            "prefix": "PulseForward",
+            "body": "<PulseForward${1:}>\n\t${2:}\n</PulseForward>",
+            "description": "PulseForward"
+        },"RaiseUserEvent":{
+            "prefix": "RaiseUserEvent",
+            "body": "<RaiseUserEvent${1:}>\n\t${2:}\n</RaiseUserEvent>",
+            "description": "RaiseUserEvent"
+        },"ReleaseFocus":{
+            "prefix": "ReleaseFocus",
+            "body": "<ReleaseFocus${1:}>\n\t${2:}\n</ReleaseFocus>",
+            "description": "ReleaseFocus"
+        },"ReleasePage":{
+            "prefix": "ReleasePage",
+            "body": "<ReleasePage${1:}>\n\t${2:}\n</ReleasePage>",
+            "description": "ReleasePage"
+        },"Reload":{
+            "prefix": "Reload",
+            "body": "<Reload${1:}>\n\t${2:}\n</Reload>",
+            "description": "Reload"
+        },"Resume":{
+            "prefix": "Resume",
+            "body": "<Resume${1:}>\n\t${2:}\n</Resume>",
+            "description": "Resume"
+        },"RouterCancelNavigation":{
+            "prefix": "RouterCancelNavigation",
+            "body": "<RouterCancelNavigation${1:}>\n\t${2:}\n</RouterCancelNavigation>",
+            "description": "RouterCancelNavigation"
+        },"RouterModify":{
+            "prefix": "RouterModify",
+            "body": "<RouterModify${1:}>\n\t${2:}\n</RouterModify>",
+            "description": "RouterModify"
+        },"ScrollableGoto":{
+            "prefix": "ScrollableGoto",
+            "body": "<ScrollableGoto${1:}>\n\t${2:}\n</ScrollableGoto>",
+            "description": "ScrollableGoto"
+        },"ScrollTo":{
+            "prefix": "ScrollTo",
+            "body": "<ScrollTo${1:}>\n\t${2:}\n</ScrollTo>",
+            "description": "ScrollTo"
+        },"SendToBack":{
+            "prefix": "SendToBack",
+            "body": "<SendToBack${1:}>\n\t${2:}\n</SendToBack>",
+            "description": "SendToBack"
+        },"Set":{
+            "prefix": "Set",
+            "body": "<Set${1:}>\n\t${2:}\n</Set>",
+            "description": "Set"
+        },"SetSwipeActive":{
+            "prefix": "SetSwipeActive",
+            "body": "<SetSwipeActive${1:}>\n\t${2:}\n</SetSwipeActive>",
+            "description": "SetSwipeActive"
+        },"Show":{
+            "prefix": "Show",
+            "body": "<Show${1:}>\n\t${2:}\n</Show>",
+            "description": "Show"
+        },"Stop":{
+            "prefix": "Stop",
+            "body": "<Stop${1:}>\n\t${2:}\n</Stop>",
+            "description": "Stop"
+        },"StopLoading":{
+            "prefix": "StopLoading",
+            "body": "<StopLoading${1:}>\n\t${2:}\n</StopLoading>",
+            "description": "StopLoading"
+        },"TimelineAction":{
+            "prefix": "TimelineAction",
+            "body": "<TimelineAction${1:}>\n\t${2:}\n</TimelineAction>",
+            "description": "TimelineAction"
+        },"Toggle":{
+            "prefix": "Toggle",
+            "body": "<Toggle${1:}>\n\t${2:}\n</Toggle>",
+            "description": "Toggle"
+        },"ToggleSelection":{
+            "prefix": "ToggleSelection",
+            "body": "<ToggleSelection${1:}>\n\t${2:}\n</ToggleSelection>",
+            "description": "ToggleSelection"
+        },"ToggleSwipeActive":{
+            "prefix": "ToggleSwipeActive",
+            "body": "<ToggleSwipeActive${1:}>\n\t${2:}\n</ToggleSwipeActive>",
+            "description": "ToggleSwipeActive"
+        },"TransitionLayout":{
+            "prefix": "TransitionLayout",
+            "body": "<TransitionLayout${1:}>\n\t${2:}\n</TransitionLayout>",
+            "description": "TransitionLayout"
+        },"TransitionState":{
+            "prefix": "TransitionState",
+            "body": "<TransitionState${1:}>\n\t${2:}\n</TransitionState>",
+            "description": "TransitionState"
+        },"Vibrate":{
+            "prefix": "Vibrate",
+            "body": "<Vibrate${1:}>\n\t${2:}\n</Vibrate>",
+            "description": "Vibrate"
+        },"FileImageSource":{
+            "prefix": "FileImageSource",
+            "body": "<FileImageSource${1:}>\n\t${2:}\n</FileImageSource>",
+            "description": "FileImageSource"
+        },"HttpImageSource":{
+            "prefix": "HttpImageSource",
+            "body": "<HttpImageSource${1:}>\n\t${2:}\n</HttpImageSource>",
+            "description": "HttpImageSource"
+        },"MultiDensityImageSource":{
+            "prefix": "MultiDensityImageSource",
+            "body": "<MultiDensityImageSource${1:}>\n\t${2:}\n</MultiDensityImageSource>",
+            "description": "MultiDensityImageSource"
+        },"TextureImageSource":{
+            "prefix": "TextureImageSource",
+            "body": "<TextureImageSource${1:}>\n\t${2:}\n</TextureImageSource>",
+            "description": "TextureImageSource"
+        },
+
+
+        "\\Activated":{
+            "prefix": "\\Activated",
+            "body": "<Activated ${1:}/>",
+            "description": "Activated"
+        },"\\ActivatingAnimation":{
+            "prefix": "\\ActivatingAnimation",
+            "body": "<ActivatingAnimation ${1:}/>",
+            "description": "ActivatingAnimation"
+        },"\\AddingAnimation":{
+            "prefix": "\\AddingAnimation",
+            "body": "<AddingAnimation ${1:}/>",
+            "description": "AddingAnimation"
+        },"\\AlternateRoot":{
+            "prefix": "\\AlternateRoot",
+            "body": "<AlternateRoot ${1:}/>",
+            "description": "AlternateRoot"
+        },"\\Android":{
+            "prefix": "\\Android",
+            "body": "<Android ${1:}/>",
+            "description": "Android"
+        },"\\Arc":{
+            "prefix": "\\Arc",
+            "body": "<Arc ${1:}/>",
+            "description": "Arc"
+        },"\\Attractor":{
+            "prefix": "\\Attractor",
+            "body": "<Attractor ${1:}/>",
+            "description": "Attractor"
+        },"\\BackButton":{
+            "prefix": "\\BackButton",
+            "body": "<BackButton ${1:}/>",
+            "description": "BackButton"
+        },"\\Blur":{
+            "prefix": "\\Blur",
+            "body": "<Blur ${1:}/>",
+            "description": "Blur"
+        },"\\BottomBarBackground":{
+            "prefix": "\\BottomBarBackground",
+            "body": "<BottomBarBackground ${1:}/>",
+            "description": "BottomBarBackground"
+        },"\\BottomFrameBackground":{
+            "prefix": "\\BottomFrameBackground",
+            "body": "<BottomFrameBackground ${1:}/>",
+            "description": "BottomFrameBackground"
+        },"\\Busy":{
+            "prefix": "\\Busy",
+            "body": "<Busy ${1:}/>",
+            "description": "Busy"
+        },"\\Button":{
+            "prefix": "\\Button",
+            "body": "<Button ${1:}/>",
+            "description": "Button"
+        },"\\ButtonBase":{
+            "prefix": "\\ButtonBase",
+            "body": "<ButtonBase ${1:}/>",
+            "description": "ButtonBase"
+        },"\\CameraView":{
+            "prefix": "\\CameraView",
+            "body": "<CameraView ${1:}/>",
+            "description": "CameraView"
+        },"\\Circle":{
+            "prefix": "\\Circle",
+            "body": "<Circle ${1:}/>",
+            "description": "Circle"
+        },"\\CircularRangeBehavior":{
+            "prefix": "\\CircularRangeBehavior",
+            "body": "<CircularRangeBehavior ${1:}/>",
+            "description": "CircularRangeBehavior"
+        },"\\Clicked":{
+            "prefix": "\\Clicked",
+            "body": "<Clicked ${1:}/>",
+            "description": "Clicked"
+        },"\\ClientPanel":{
+            "prefix": "\\ClientPanel",
+            "body": "<ClientPanel ${1:}/>",
+            "description": "ClientPanel"
+        },"\\Closure":{
+            "prefix": "\\Closure",
+            "body": "<Closure ${1:}/>",
+            "description": "Closure"
+        },"\\Captures the named":{
+            "prefix": "\\Captures the named",
+            "body": "<Captures the named ${1:}/>",
+            "description": "Captures the named"
+        },"\\Completed":{
+            "prefix": "\\Completed",
+            "body": "<Completed ${1:}/>",
+            "description": "Completed"
+        },"\\Container":{
+            "prefix": "\\Container",
+            "body": "<Container ${1:}/>",
+            "description": "Container"
+        },"\\ContainingText":{
+            "prefix": "\\ContainingText",
+            "body": "<ContainingText ${1:}/>",
+            "description": "ContainingText"
+        },"\\ContentControl":{
+            "prefix": "\\ContentControl",
+            "body": "<ContentControl ${1:}/>",
+            "description": "ContentControl"
+        },"\\Curve":{
+            "prefix": "\\Curve",
+            "body": "<Curve ${1:}/>",
+            "description": "Curve"
+        },"\\CurvePoint":{
+            "prefix": "\\CurvePoint",
+            "body": "<CurvePoint ${1:}/>",
+            "description": "CurvePoint"
+        },"\\Deactivated":{
+            "prefix": "\\Deactivated",
+            "body": "<Deactivated ${1:}/>",
+            "description": "Deactivated"
+        },"\\DeactivatingAnimation":{
+            "prefix": "\\DeactivatingAnimation",
+            "body": "<DeactivatingAnimation ${1:}/>",
+            "description": "DeactivatingAnimation"
+        },"\\Deferred":{
+            "prefix": "\\Deferred",
+            "body": "<Deferred ${1:}/>",
+            "description": "Deferred"
+        },"\\Desaturate":{
+            "prefix": "\\Desaturate",
+            "body": "<Desaturate ${1:}/>",
+            "description": "Desaturate"
+        },"\\Deselected":{
+            "prefix": "\\Deselected",
+            "body": "<Deselected ${1:}/>",
+            "description": "Deselected"
+        },"\\DirectNavigation":{
+            "prefix": "\\DirectNavigation",
+            "body": "<DirectNavigation ${1:}/>",
+            "description": "DirectNavigation"
+        },"\\DockPanel":{
+            "prefix": "\\DockPanel",
+            "body": "<DockPanel ${1:}/>",
+            "description": "DockPanel"
+        },"\\DoubleClicked":{
+            "prefix": "\\DoubleClicked",
+            "body": "<DoubleClicked ${1:}/>",
+            "description": "DoubleClicked"
+        },"\\DoubleTapped":{
+            "prefix": "\\DoubleTapped",
+            "body": "<DoubleTapped ${1:}/>",
+            "description": "DoubleTapped"
+        },"\\Draggable":{
+            "prefix": "\\Draggable",
+            "body": "<Draggable ${1:}/>",
+            "description": "Draggable"
+        },"\\DropShadow":{
+            "prefix": "\\DropShadow",
+            "body": "<DropShadow ${1:}/>",
+            "description": "DropShadow"
+        },"\\Duotone":{
+            "prefix": "\\Duotone",
+            "body": "<Duotone ${1:}/>",
+            "description": "Duotone"
+        },"\\Each":{
+            "prefix": "\\Each",
+            "body": "<Each Items=\"{${1:}}\"/>",
+            "description": "Each"
+        },"\\EdgeNavigation":{
+            "prefix": "\\EdgeNavigation",
+            "body": "<EdgeNavigation ${1:}/>",
+            "description": "EdgeNavigation"
+        },"\\EdgeNavigator":{
+            "prefix": "\\EdgeNavigator",
+            "body": "<EdgeNavigator ${1:}/>",
+            "description": "EdgeNavigator"
+        },"\\EdgeSwipeAnimation":{
+            "prefix": "\\EdgeSwipeAnimation",
+            "body": "<EdgeSwipeAnimation ${1:}/>",
+            "description": "EdgeSwipeAnimation"
+        },"\\Ellipse":{
+            "prefix": "\\Ellipse",
+            "body": "<Ellipse ${1:}/>",
+            "description": "Ellipse"
+        },"\\EnteredForceField":{
+            "prefix": "\\EnteredForceField",
+            "body": "<EnteredForceField ${1:}/>",
+            "description": "EnteredForceField"
+        },"\\EnteringAnimation":{
+            "prefix": "\\EnteringAnimation",
+            "body": "<EnteringAnimation ${1:}/>",
+            "description": "EnteringAnimation"
+        },"\\ExitedForceField":{
+            "prefix": "\\ExitedForceField",
+            "body": "<ExitedForceField ${1:}/>",
+            "description": "ExitedForceField"
+        },"\\ExitingAnimation":{
+            "prefix": "\\ExitingAnimation",
+            "body": "<ExitingAnimation ${1:}/>",
+            "description": "ExitingAnimation"
+        },"\\GraphicsView":{
+            "prefix": "\\GraphicsView",
+            "body": "<GraphicsView ${1:}/>",
+            "description": "GraphicsView"
+        },"\\Grid":{
+            "prefix": "\\Grid",
+            "body": "<Grid ${1:}/>",
+            "description": "Grid"
+        },"\\Halftone":{
+            "prefix": "\\Halftone",
+            "body": "<Halftone ${1:}/>",
+            "description": "Halftone"
+        },"\\HierarchicalNavigation":{
+            "prefix": "\\HierarchicalNavigation",
+            "body": "<HierarchicalNavigation ${1:}/>",
+            "description": "HierarchicalNavigation"
+        },"\\Image":{
+            "prefix": "\\Image",
+            "body": "<Image ${1:}/>",
+            "description": "Image"
+        },"\\InForceFieldAnimation":{
+            "prefix": "\\InForceFieldAnimation",
+            "body": "<InForceFieldAnimation ${1:}/>",
+            "description": "InForceFieldAnimation"
+        },"\\Instance":{
+            "prefix": "\\Instance",
+            "body": "<Instance ${1:}/>",
+            "description": "Instance"
+        },"\\InteractionCompleted":{
+            "prefix": "\\InteractionCompleted",
+            "body": "<InteractionCompleted ${1:}/>",
+            "description": "InteractionCompleted"
+        },"\\iOS":{
+            "prefix": "\\iOS",
+            "body": "<iOS ${1:}/>",
+            "description": "iOS"
+        },"\\JavaScript":{
+            "prefix": "\\JavaScript",
+            "body": "<JavaScript ${1:}/>",
+            "description": "JavaScript"
+        },"\\JavaScriptTest":{
+            "prefix": "\\JavaScriptTest",
+            "body": "<JavaScriptTest ${1:}/>",
+            "description": "JavaScriptTest"
+        },"\\KeepFocusInView":{
+            "prefix": "\\KeepFocusInView",
+            "body": "<KeepFocusInView ${1:}/>",
+            "description": "KeepFocusInView"
+        },"\\KeepInView":{
+            "prefix": "\\KeepInView",
+            "body": "<KeepInView ${1:}/>",
+            "description": "KeepInView"
+        },"\\LayoutAnimation":{
+            "prefix": "\\LayoutAnimation",
+            "body": "<LayoutAnimation ${1:}/>",
+            "description": "LayoutAnimation"
+        },"\\LayoutControl":{
+            "prefix": "\\LayoutControl",
+            "body": "<LayoutControl ${1:}/>",
+            "description": "LayoutControl"
+        },"\\LinearNavigation":{
+            "prefix": "\\LinearNavigation",
+            "body": "<LinearNavigation ${1:}/>",
+            "description": "LinearNavigation"
+        },"\\LinearRangeBehavior":{
+            "prefix": "\\LinearRangeBehavior",
+            "body": "<LinearRangeBehavior ${1:}/>",
+            "description": "LinearRangeBehavior"
+        },"\\LongPressed":{
+            "prefix": "\\LongPressed",
+            "body": "<LongPressed ${1:}/>",
+            "description": "LongPressed"
+        },"\\MapMarker":{
+            "prefix": "\\MapMarker",
+            "body": "<MapMarker ${1:}/>",
+            "description": "MapMarker"
+        },"\\MapView":{
+            "prefix": "\\MapView",
+            "body": "<MapView ${1:}/>",
+            "description": "MapView"
+        },"\\Mask":{
+            "prefix": "\\Mask",
+            "body": "<Mask ${1:}/>",
+            "description": "Mask"
+        },"\\Match":{
+            "prefix": "\\Match",
+            "body": "<Match ${1:}/>",
+            "description": "Match"
+        },"\\MultiLayout":{
+            "prefix": "\\MultiLayout",
+            "body": "<MultiLayout ${1:}/>",
+            "description": "MultiLayout"
+        },"\\MultiLayoutPanel":{
+            "prefix": "\\MultiLayoutPanel",
+            "body": "<MultiLayoutPanel ${1:}/>",
+            "description": "MultiLayoutPanel"
+        },"\\NativeViewHost":{
+            "prefix": "\\NativeViewHost",
+            "body": "<NativeViewHost ${1:}/>",
+            "description": "NativeViewHost"
+        },"\\NavigationBar":{
+            "prefix": "\\NavigationBar",
+            "body": "<NavigationBar ${1:}/>",
+            "description": "NavigationBar"
+        },"\\Navigator":{
+            "prefix": "\\Navigator",
+            "body": "<Navigator ${1:}/>",
+            "description": "Navigator"
+        },"\\NavigatorSwipe":{
+            "prefix": "\\NavigatorSwipe",
+            "body": "<NavigatorSwipe ${1:}/>",
+            "description": "NavigatorSwipe"
+        },"\\NodeGroup":{
+            "prefix": "\\NodeGroup",
+            "body": "<NodeGroup ${1:}/>",
+            "description": "NodeGroup"
+        },"\\Number":{
+            "prefix": "\\Number",
+            "body": "<Number ${1:}/>",
+            "description": "Number"
+        },"\\OnBackButton":{
+            "prefix": "\\OnBackButton",
+            "body": "<OnBackButton ${1:}/>",
+            "description": "OnBackButton"
+        },"\\OnKeyPress":{
+            "prefix": "\\OnKeyPress",
+            "body": "<OnKeyPress ${1:}/>",
+            "description": "OnKeyPress"
+        },"\\OnUserEvent":{
+            "prefix": "\\OnUserEvent",
+            "body": "<OnUserEvent ${1:}/>",
+            "description": "OnUserEvent"
+        },"\\Page":{
+            "prefix": "\\Page",
+            "body": "<Page ${1:}/>",
+            "description": "Page"
+        },"\\PageBeginLoading":{
+            "prefix": "\\PageBeginLoading",
+            "body": "<PageBeginLoading ${1:}/>",
+            "description": "PageBeginLoading"
+        },"\\PageControl":{
+            "prefix": "\\PageControl",
+            "body": "<PageControl ${1:}/>",
+            "description": "PageControl"
+        },"\\PageIndicator":{
+            "prefix": "\\PageIndicator",
+            "body": "<PageIndicator ${1:}/>",
+            "description": "PageIndicator"
+        },"\\PageIndicatorDot":{
+            "prefix": "\\PageIndicatorDot",
+            "body": "<PageIndicatorDot ${1:}/>",
+            "description": "PageIndicatorDot"
+        },"\\PageLoaded":{
+            "prefix": "\\PageLoaded",
+            "body": "<PageLoaded ${1:}/>",
+            "description": "PageLoaded"
+        },"\\PageResourceBinding":{
+            "prefix": "\\PageResourceBinding",
+            "body": "<PageResourceBinding ${1:}/>",
+            "description": "PageResourceBinding"
+        },"\\PageView":{
+            "prefix": "\\PageView",
+            "body": "<PageView ${1:}/>",
+            "description": "PageView"
+        },"\\Panel":{
+            "prefix": "\\Panel",
+            "body": "<Panel ${1:}/>",
+            "description": "Panel"
+        },"\\PanGesture":{
+            "prefix": "\\PanGesture",
+            "body": "<PanGesture ${1:}/>",
+            "description": "PanGesture"
+        },"\\Path":{
+            "prefix": "\\Path",
+            "body": "<Path ${1:}/>",
+            "description": "Path"
+        },"\\Placeholder":{
+            "prefix": "\\Placeholder",
+            "body": "<Placeholder ${1:}/>",
+            "description": "Placeholder"
+        },"\\Plot":{
+            "prefix": "\\Plot",
+            "body": "<Plot ${1:}/>",
+            "description": "Plot"
+        },"\\PlotArea":{
+            "prefix": "\\PlotArea",
+            "body": "<PlotArea ${1:}/>",
+            "description": "PlotArea"
+        },"\\PlotAxis":{
+            "prefix": "\\PlotAxis",
+            "body": "<PlotAxis ${1:}/>",
+            "description": "PlotAxis"
+        },"\\PlotAxisData":{
+            "prefix": "\\PlotAxisData",
+            "body": "<PlotAxisData ${1:}/>",
+            "description": "PlotAxisData"
+        },"\\PlotBar":{
+            "prefix": "\\PlotBar",
+            "body": "<PlotBar ${1:}/>",
+            "description": "PlotBar"
+        },"\\PlotCurvePoint":{
+            "prefix": "\\PlotCurvePoint",
+            "body": "<PlotCurvePoint ${1:}/>",
+            "description": "PlotCurvePoint"
+        },"\\PlotData":{
+            "prefix": "\\PlotData",
+            "body": "<PlotData ${1:}/>",
+            "description": "PlotData"
+        },"\\PlotPoint":{
+            "prefix": "\\PlotPoint",
+            "body": "<PlotPoint ${1:}/>",
+            "description": "PlotPoint"
+        },"\\PlotTicks":{
+            "prefix": "\\PlotTicks",
+            "body": "<PlotTicks ${1:}/>",
+            "description": "PlotTicks"
+        },"\\PlotWedge":{
+            "prefix": "\\PlotWedge",
+            "body": "<PlotWedge ${1:}/>",
+            "description": "PlotWedge"
+        },"\\PointAttractor":{
+            "prefix": "\\PointAttractor",
+            "body": "<PointAttractor ${1:}/>",
+            "description": "PointAttractor"
+        },"\\PointerCapture":{
+            "prefix": "\\PointerCapture",
+            "body": "<PointerCapture ${1:}/>",
+            "description": "PointerCapture"
+        },"\\Pressed":{
+            "prefix": "\\Pressed",
+            "body": "<Pressed ${1:}/>",
+            "description": "Pressed"
+        },"\\ProgressAnimation":{
+            "prefix": "\\ProgressAnimation",
+            "body": "<ProgressAnimation ${1:}/>",
+            "description": "ProgressAnimation"
+        },"\\PullToReload":{
+            "prefix": "\\PullToReload",
+            "body": "<PullToReload ${1:}/>",
+            "description": "PullToReload"
+        },"\\RangeAdapter":{
+            "prefix": "\\RangeAdapter",
+            "body": "<RangeAdapter ${1:}/>",
+            "description": "RangeAdapter"
+        },"\\RangeAnimation":{
+            "prefix": "\\RangeAnimation",
+            "body": "<RangeAnimation ${1:}/>",
+            "description": "RangeAnimation"
+        },"\\RangeControl":{
+            "prefix": "\\RangeControl",
+            "body": "<RangeControl ${1:}/>",
+            "description": "RangeControl"
+        },"\\RangeControl2D":{
+            "prefix": "\\RangeControl2D",
+            "body": "<RangeControl2D ${1:}/>",
+            "description": "RangeControl2D"
+        },"\\Rectangle":{
+            "prefix": "\\Rectangle",
+            "body": "<Rectangle Height=\"${ 1:}\"/>",
+            "description": "Rectangle"
+        },"\\RegularPolygon":{
+            "prefix": "\\RegularPolygon",
+            "body": "<RegularPolygon ${1:}/>",
+            "description": "RegularPolygon"
+        },"\\Released":{
+            "prefix": "\\Released",
+            "body": "<Released ${1:}/>",
+            "description": "Released"
+        },"\\RemovingAnimation":{
+            "prefix": "\\RemovingAnimation",
+            "body": "<RemovingAnimation ${1:}/>",
+            "description": "RemovingAnimation"
+        },"\\ResourceBool":{
+            "prefix": "\\ResourceBool",
+            "body": "<ResourceBool ${1:}/>",
+            "description": "ResourceBool"
+        },"\\ResourceFloat":{
+            "prefix": "\\ResourceFloat",
+            "body": "<ResourceFloat ${1:}/>",
+            "description": "ResourceFloat"
+        },"\\ResourceFloat2":{
+            "prefix": "\\ResourceFloat2",
+            "body": "<ResourceFloat2 ${1:}/>",
+            "description": "ResourceFloat2"
+        },"\\ResourceFloat3":{
+            "prefix": "\\ResourceFloat3",
+            "body": "<ResourceFloat3 ${1:}/>",
+            "description": "ResourceFloat3"
+        },"\\ResourceFloat4":{
+            "prefix": "\\ResourceFloat4",
+            "body": "<ResourceFloat4 ${1:}/>",
+            "description": "ResourceFloat4"
+        },"\\ResourceObject":{
+            "prefix": "\\ResourceObject",
+            "body": "<ResourceObject ${1:}/>",
+            "description": "ResourceObject"
+        },"\\ResourceString":{
+            "prefix": "\\ResourceString",
+            "body": "<ResourceString ${1:}/>",
+            "description": "ResourceString"
+        },"\\RightFrameBackground":{
+            "prefix": "\\RightFrameBackground",
+            "body": "<RightFrameBackground ${1:}/>",
+            "description": "RightFrameBackground"
+        },"\\RootGraphicsView":{
+            "prefix": "\\RootGraphicsView",
+            "body": "<RootGraphicsView ${1:}/>",
+            "description": "RootGraphicsView"
+        },"\\RotateGesture":{
+            "prefix": "\\RotateGesture",
+            "body": "<RotateGesture ${1:}/>",
+            "description": "RotateGesture"
+        },"\\Rotation":{
+            "prefix": "\\Rotation",
+            "body": "<Rotation ${1:}/>",
+            "description": "Rotation"
+        },"\\Router":{
+            "prefix": "\\Router",
+            "body": "<Router ${1:}/>",
+            "description": "Router"
+        },"\\Scaling":{
+            "prefix": "\\Scaling",
+            "body": "<Scaling ${1:}/>",
+            "description": "Scaling"
+        },"\\Scrolled":{
+            "prefix": "\\Scrolled",
+            "body": "<Scrolled ${1:}/>",
+            "description": "Scrolled"
+        },"\\ScrollingAnimation":{
+            "prefix": "\\ScrollingAnimation",
+            "body": "<ScrollingAnimation ${1:}/>",
+            "description": "ScrollingAnimation"
+        },"\\ScrollView":{
+            "prefix": "\\ScrollView",
+            "body": "<ScrollView ${1:}/>",
+            "description": "ScrollView"
+        },"\\ScrollViewBase":{
+            "prefix": "\\ScrollViewBase",
+            "body": "<ScrollViewBase ${1:}/>",
+            "description": "ScrollViewBase"
+        },"\\Select":{
+            "prefix": "\\Select",
+            "body": "<Select ${1:}/>",
+            "description": "Select"
+        },"\\Selectable":{
+            "prefix": "\\Selectable",
+            "body": "<Selectable ${1:}/>",
+            "description": "Selectable"
+        },"\\Selected":{
+            "prefix": "\\Selected",
+            "body": "<Selected ${1:}/>",
+            "description": "Selected"
+        },"\\Selection":{
+            "prefix": "\\Selection",
+            "body": "<Selection ${1:}/>",
+            "description": "Selection"
+        },"\\Shadow":{
+            "prefix": "\\Shadow",
+            "body": "<Shadow ${1:}/>",
+            "description": "Shadow"
+        },"\\Shear":{
+            "prefix": "\\Shear",
+            "body": "<Shear ${1:}/>",
+            "description": "Shear"
+        },"\\Slider":{
+            "prefix": "\\Slider",
+            "body": "<Slider ${1:}/>",
+            "description": "Slider"
+        },"\\Spring":{
+            "prefix": "\\Spring",
+            "body": "<Spring ${1:}/>",
+            "description": "Spring"
+        },"\\StackPanel":{
+            "prefix": "\\StackPanel",
+            "body": "<StackPanel Orientation=\"${1|Vertical,Horizonta l|}\"/>",
+            "description": "StackPanel"
+        },"\\Star":{
+            "prefix": "\\Star",
+            "body": "<Star ${1:}/>",
+            "description": "Star"
+        },"\\State":{
+            "prefix": "\\State",
+            "body": "<State ${1:}/>",
+            "description": "State"
+        },"\\StateGroup":{
+            "prefix": "\\StateGroup",
+            "body": "<StateGroup ${1:}/>",
+            "description": "StateGroup"
+        },"\\StatusBarBackground":{
+            "prefix": "\\StatusBarBackground",
+            "body": "<StatusBarBackground ${1:}/>",
+            "description": "StatusBarBackground"
+        },"\\StatusBarConfig":{
+            "prefix": "\\StatusBarConfig",
+            "body": "<StatusBarConfig ${1:}/>",
+            "description": "StatusBarConfig"
+        },"\\Swiped":{
+            "prefix": "\\Swiped",
+            "body": "<Swiped ${1:}/>",
+            "description": "Swiped"
+        },"\\SwipeGesture":{
+            "prefix": "\\SwipeGesture",
+            "body": "<SwipeGesture ${1:}/>",
+            "description": "SwipeGesture"
+        },"\\SwipeNavigate":{
+            "prefix": "\\SwipeNavigate",
+            "body": "<SwipeNavigate ${1:}/>",
+            "description": "SwipeNavigate"
+        },"\\SwipingAnimation":{
+            "prefix": "\\SwipingAnimation",
+            "body": "<SwipingAnimation ${1:}/>",
+            "description": "SwipingAnimation"
+        },"\\Switch":{
+            "prefix": "\\Switch",
+            "body": "<Switch ${1:}/>",
+            "description": "Switch"
+        },"\\Tapped":{
+            "prefix": "\\Tapped",
+            "body": "<Tapped ${1:}/>",
+            "description": "Tapped"
+        },"\\Text":{
+            "prefix": "\\Text",
+            "body": "<Text ${1:}/>",
+            "description": "Text"
+        },"\\TextBlock":{
+            "prefix": "\\TextBlock",
+            "body": "<TextBlock ${1:}/>",
+            "description": "TextBlock"
+        },"\\TextBox":{
+            "prefix": "\\TextBox",
+            "body": "<TextBox ${1:}/>",
+            "description": "TextBox"
+        },"\\TextInput":{
+            "prefix": "\\TextInput",
+            "body": "<TextInput ${1:}/>",
+            "description": "TextInput"
+        },"\\TextInputActionTriggered":{
+            "prefix": "\\TextInputActionTriggered",
+            "body": "<TextInputActionTriggered ${1:}/>",
+            "description": "TextInputActionTriggered"
+        },"\\TextView":{
+            "prefix": "\\TextView",
+            "body": "<TextView ${1:}/>",
+            "description": "TextView"
+        },"\\Timeline":{
+            "prefix": "\\Timeline",
+            "body": "<Timeline ${1:}/>",
+            "description": "Timeline"
+        },"\\ToggleControl":{
+            "prefix": "\\ToggleControl",
+            "body": "<ToggleControl ${1:}/>",
+            "description": "ToggleControl"
+        },"\\TopFrameBackground":{
+            "prefix": "\\TopFrameBackground",
+            "body": "<TopFrameBackground ${1:}/>",
+            "description": "TopFrameBackground"
+        },"\\Transition":{
+            "prefix": "\\Transition",
+            "body": "<Transition ${1:}/>",
+            "description": "Transition"
+        },"\\Translation":{
+            "prefix": "\\Translation",
+            "body": "<Translation ${1:}/>",
+            "description": "Translation"
+        },"\\UserEvent":{
+            "prefix": "\\UserEvent",
+            "body": "<UserEvent ${1:}/>",
+            "description": "UserEvent"
+        },"\\Video":{
+            "prefix": "\\Video",
+            "body": "<Video ${1:}/>",
+            "description": "Video"
+        },"\\Viewbox":{
+            "prefix": "\\Viewbox",
+            "body": "<Viewbox ${1:}/>",
+            "description": "Viewbox"
+        },"\\WebView":{
+            "prefix": "\\WebView",
+            "body": "<WebView ${1:}/>",
+            "description": "WebView"
+        },"\\WhileActive":{
+            "prefix": "\\WhileActive",
+            "body": "<WhileActive ${1:}/>",
+            "description": "WhileActive"
+        },"\\WhileBusy":{
+            "prefix": "\\WhileBusy",
+            "body": "<WhileBusy ${1:}/>",
+            "description": "WhileBusy"
+        },"\\WhileCanGoBack":{
+            "prefix": "\\WhileCanGoBack",
+            "body": "<WhileCanGoBack ${1:}/>",
+            "description": "WhileCanGoBack"
+        },"\\WhileCanGoForward":{
+            "prefix": "\\WhileCanGoForward",
+            "body": "<WhileCanGoForward ${1:}/>",
+            "description": "WhileCanGoForward"
+        },"\\WhileCompleted":{
+            "prefix": "\\WhileCompleted",
+            "body": "<WhileCompleted ${1:}/>",
+            "description": "WhileCompleted"
+        },"\\WhileContainsText":{
+            "prefix": "\\WhileContainsText",
+            "body": "<WhileContainsText ${1:}/>",
+            "description": "WhileContainsText"
+        },"\\WhileCount":{
+            "prefix": "\\WhileCount",
+            "body": "<WhileCount ${1:}/>",
+            "description": "WhileCount"
+        },"\\WhileDisabled":{
+            "prefix": "\\WhileDisabled",
+            "body": "<WhileDisabled ${1:}/>",
+            "description": "WhileDisabled"
+        },"\\WhileDragging":{
+            "prefix": "\\WhileDragging",
+            "body": "<WhileDragging ${1:}/>",
+            "description": "WhileDragging"
+        },"\\WhileEmpty":{
+            "prefix": "\\WhileEmpty",
+            "body": "<WhileEmpty ${1:}/>",
+            "description": "WhileEmpty"
+        },"\\WhileEnabled":{
+            "prefix": "\\WhileEnabled",
+            "body": "<WhileEnabled ${1:}/>",
+            "description": "WhileEnabled"
+        },"\\WhileFailed":{
+            "prefix": "\\WhileFailed",
+            "body": "<WhileFailed ${1:}/>",
+            "description": "WhileFailed"
+        },"\\WhileFalse":{
+            "prefix": "\\WhileFalse",
+            "body": "<WhileFalse ${1:}/>",
+            "description": "WhileFalse"
+        },"\\WhileFloat":{
+            "prefix": "\\WhileFloat",
+            "body": "<WhileFloat ${1:}/>",
+            "description": "WhileFloat"
+        },"\\WhileFocused":{
+            "prefix": "\\WhileFocused",
+            "body": "<WhileFocused ${1:}/>",
+            "description": "WhileFocused"
+        },"\\WhileFocusWithin":{
+            "prefix": "\\WhileFocusWithin",
+            "body": "<WhileFocusWithin ${1:}/>",
+            "description": "WhileFocusWithin"
+        },"\\WhileHovering":{
+            "prefix": "\\WhileHovering",
+            "body": "<WhileHovering ${1:}/>",
+            "description": "WhileHovering"
+        },"\\WhileInactive":{
+            "prefix": "\\WhileInactive",
+            "body": "<WhileInactive ${1:}/>",
+            "description": "WhileInactive"
+        },"\\WhileInEnterState":{
+            "prefix": "\\WhileInEnterState",
+            "body": "<WhileInEnterState ${1:}/>",
+            "description": "WhileInEnterState"
+        },"\\WhileInExitState":{
+            "prefix": "\\WhileInExitState",
+            "body": "<WhileInExitState ${1:}/>",
+            "description": "WhileInExitState"
+        },"\\WhileInteracting":{
+            "prefix": "\\WhileInteracting",
+            "body": "<WhileInteracting ${1:}/>",
+            "description": "WhileInteracting"
+        },"\\WhileKeyboardVisible":{
+            "prefix": "\\WhileKeyboardVisible",
+            "body": "<WhileKeyboardVisible ${1:}/>",
+            "description": "WhileKeyboardVisible"
+        },"\\WhileLoading":{
+            "prefix": "\\WhileLoading",
+            "body": "<WhileLoading ${1:}/>",
+            "description": "WhileLoading"
+        },"\\WhileNavigating":{
+            "prefix": "\\WhileNavigating",
+            "body": "<WhileNavigating ${1:}/>",
+            "description": "WhileNavigating"
+        },"\\WhileNotEmpty":{
+            "prefix": "\\WhileNotEmpty",
+            "body": "<WhileNotEmpty ${1:}/>",
+            "description": "WhileNotEmpty"
+        },"\\WhileNotFocused":{
+            "prefix": "\\WhileNotFocused",
+            "body": "<WhileNotFocused ${1:}/>",
+            "description": "WhileNotFocused"
+        },"\\WhilePageActive":{
+            "prefix": "\\WhilePageActive",
+            "body": "<WhilePageActive ${1:}/>",
+            "description": "WhilePageActive"
+        },"\\WhilePageLoading":{
+            "prefix": "\\WhilePageLoading",
+            "body": "<WhilePageLoading ${1:}/>",
+            "description": "WhilePageLoading"
+        },"\\WhilePaused":{
+            "prefix": "\\WhilePaused",
+            "body": "<WhilePaused ${1:}/>",
+            "description": "WhilePaused"
+        },"\\WhilePlaying":{
+            "prefix": "\\WhilePlaying",
+            "body": "<WhilePlaying ${1:}/>",
+            "description": "WhilePlaying"
+        },"\\WhilePressed":{
+            "prefix": "\\WhilePressed",
+            "body": "<WhilePressed ${1:}/>",
+            "description": "WhilePressed"
+        },"\\WhileScrollable":{
+            "prefix": "\\WhileScrollable",
+            "body": "<WhileScrollable ${1:}/>",
+            "description": "WhileScrollable"
+        },"\\WhileScrolled":{
+            "prefix": "\\WhileScrolled",
+            "body": "<WhileScrolled ${1:}/>",
+            "description": "WhileScrolled"
+        },"\\WhileSelected":{
+            "prefix": "\\WhileSelected",
+            "body": "<WhileSelected ${1:}/>",
+            "description": "WhileSelected"
+        },"\\WhileString":{
+            "prefix": "\\WhileString",
+            "body": "<WhileString ${1:}/>",
+            "description": "WhileString"
+        },"\\WhileSwipeActive":{
+            "prefix": "\\WhileSwipeActive",
+            "body": "<WhileSwipeActive ${1:}/>",
+            "description": "WhileSwipeActive"
+        },"\\WhileSwiping":{
+            "prefix": "\\WhileSwiping",
+            "body": "<WhileSwiping ${1:}/>",
+            "description": "WhileSwiping"
+        },"\\WhileTrue":{
+            "prefix": "\\WhileTrue",
+            "body": "<WhileTrue ${1:}/>",
+            "description": "WhileTrue"
+        },"\\WhileVisible":{
+            "prefix": "\\WhileVisible",
+            "body": "<WhileVisible ${1:}/>",
+            "description": "WhileVisible"
+        },"\\WhileVisibleInScrollView":{
+            "prefix": "\\WhileVisibleInScrollView",
+            "body": "<WhileVisibleInScrollView ${1:}/>",
+            "description": "WhileVisibleInScrollView"
+        },"\\WhileWindowLandscape":{
+            "prefix": "\\WhileWindowLandscape",
+            "body": "<WhileWindowLandscape ${1:}/>",
+            "description": "WhileWindowLandscape"
+        },"\\WhileWindowPortrait":{
+            "prefix": "\\WhileWindowPortrait",
+            "body": "<WhileWindowPortrait ${1:}/>",
+            "description": "WhileWindowPortrait"
+        },"\\WhileWindowSize":{
+            "prefix": "\\WhileWindowSize",
+            "body": "<WhileWindowSize ${1:}/>",
+            "description": "WhileWindowSize"
+        },"\\With":{
+            "prefix": "\\With",
+            "body": "<With ${1:}/>",
+            "description": "With"
+        },"\\WrapPanel":{
+            "prefix": "\\WrapPanel",
+            "body": "<WrapPanel ${1:}/>",
+            "description": "WrapPanel"
+        },"\\ZoomGesture":{
+            "prefix": "\\ZoomGesture",
+            "body": "<ZoomGesture ${1:}/>",
+            "description": "ZoomGesture"
+        },"\\Change":{
+            "prefix": "\\Change",
+            "body": "<Change ${1:}/>",
+            "description": "Change"
+        },"\\Cycle":{
+            "prefix": "\\Cycle",
+            "body": "<Cycle ${1:}/>",
+            "description": "Cycle"
+        },"\\Move":{
+            "prefix": "\\Move",
+            "body": "<Move ${1:}/>",
+            "description": "Move"
+        },"\\Nothing":{
+            "prefix": "\\Nothing",
+            "body": "<Nothing ${1:}/>",
+            "description": "Nothing"
+        },"\\Resize":{
+            "prefix": "\\Resize",
+            "body": "<Resize ${1:}/>",
+            "description": "Resize"
+        },"\\Rotate":{
+            "prefix": "\\Rotate",
+            "body": "<Rotate ${1:}/>",
+            "description": "Rotate"
+        },"\\Scale":{
+            "prefix": "\\Scale",
+            "body": "<Scale ${1:}/>",
+            "description": "Scale"
+        },"\\Skew":{
+            "prefix": "\\Skew",
+            "body": "<Skew ${1:}/>",
+            "description": "Skew"
+        },"\\Spin":{
+            "prefix": "\\Spin",
+            "body": "<Spin ${1:}/>",
+            "description": "Spin"
+        },"\\BringIntoView":{
+            "prefix": "\\BringIntoView",
+            "body": "<BringIntoView ${1:}/>",
+            "description": "BringIntoView"
+        },"\\BringToFront":{
+            "prefix": "\\BringToFront",
+            "body": "<BringToFront ${1:}/>",
+            "description": "BringToFront"
+        },"\\Call":{
+            "prefix": "\\Call",
+            "body": "<Call ${1:}/>",
+            "description": "Call"
+        },"\\Callback":{
+            "prefix": "\\Callback",
+            "body": "<Callback ${1:}/>",
+            "description": "Callback"
+        },"\\CancelInteractions":{
+            "prefix": "\\CancelInteractions",
+            "body": "<CancelInteractions ${1:}/>",
+            "description": "CancelInteractions"
+        },"\\Collapse":{
+            "prefix": "\\Collapse",
+            "body": "<Collapse ${1:}/>",
+            "description": "Collapse"
+        },"\\DebugAction":{
+            "prefix": "\\DebugAction",
+            "body": "<DebugAction ${1:}/>",
+            "description": "DebugAction"
+        },"\\EvaluateJS":{
+            "prefix": "\\EvaluateJS",
+            "body": "<EvaluateJS ${1:}/>",
+            "description": "EvaluateJS"
+        },"\\GiveFocus":{
+            "prefix": "\\GiveFocus",
+            "body": "<GiveFocus ${1:}/>",
+            "description": "GiveFocus"
+        },"\\GoBack":{
+            "prefix": "\\GoBack",
+            "body": "<GoBack ${1:}/>",
+            "description": "GoBack"
+        },"\\GoForward":{
+            "prefix": "\\GoForward",
+            "body": "<GoForward ${1:}/>",
+            "description": "GoForward"
+        },"\\Hide":{
+            "prefix": "\\Hide",
+            "body": "<Hide ${1:}/>",
+            "description": "Hide"
+        },"\\LaunchEmail":{
+            "prefix": "\\LaunchEmail",
+            "body": "<LaunchEmail ${1:}/>",
+            "description": "LaunchEmail"
+        },"\\LaunchMaps":{
+            "prefix": "\\LaunchMaps",
+            "body": "<LaunchMaps ${1:}/>",
+            "description": "LaunchMaps"
+        },"\\LaunchUri":{
+            "prefix": "\\LaunchUri",
+            "body": "<LaunchUri ${1:}/>",
+            "description": "LaunchUri"
+        },"\\LoadHtml":{
+            "prefix": "\\LoadHtml",
+            "body": "<LoadHtml ${1:}/>",
+            "description": "LoadHtml"
+        },"\\LoadUrl":{
+            "prefix": "\\LoadUrl",
+            "body": "<LoadUrl ${1:}/>",
+            "description": "LoadUrl"
+        },"\\NavigateTo":{
+            "prefix": "\\NavigateTo",
+            "body": "<NavigateTo ${1:}/>",
+            "description": "NavigateTo"
+        },"\\NavigateToggle":{
+            "prefix": "\\NavigateToggle",
+            "body": "<NavigateToggle ${1:}/>",
+            "description": "NavigateToggle"
+        },"\\Pause":{
+            "prefix": "\\Pause",
+            "body": "<Pause ${1:}/>",
+            "description": "Pause"
+        },"\\Play":{
+            "prefix": "\\Play",
+            "body": "<Play ${1:}/>",
+            "description": "Play"
+        },"\\PlaySound":{
+            "prefix": "\\PlaySound",
+            "body": "<PlaySound ${1:}/>",
+            "description": "PlaySound"
+        },"\\PlayTo":{
+            "prefix": "\\PlayTo",
+            "body": "<PlayTo ${1:}/>",
+            "description": "PlayTo"
+        },"\\Pulse":{
+            "prefix": "\\Pulse",
+            "body": "<Pulse ${1:}/>",
+            "description": "Pulse"
+        },"\\PulseBackward":{
+            "prefix": "\\PulseBackward",
+            "body": "<PulseBackward ${1:}/>",
+            "description": "PulseBackward"
+        },"\\PulseForward":{
+            "prefix": "\\PulseForward",
+            "body": "<PulseForward ${1:}/>",
+            "description": "PulseForward"
+        },"\\RaiseUserEvent":{
+            "prefix": "\\RaiseUserEvent",
+            "body": "<RaiseUserEvent ${1:}/>",
+            "description": "RaiseUserEvent"
+        },"\\ReleaseFocus":{
+            "prefix": "\\ReleaseFocus",
+            "body": "<ReleaseFocus ${1:}/>",
+            "description": "ReleaseFocus"
+        },"\\ReleasePage":{
+            "prefix": "\\ReleasePage",
+            "body": "<ReleasePage ${1:}/>",
+            "description": "ReleasePage"
+        },"\\Reload":{
+            "prefix": "\\Reload",
+            "body": "<Reload ${1:}/>",
+            "description": "Reload"
+        },"\\Resume":{
+            "prefix": "\\Resume",
+            "body": "<Resume ${1:}/>",
+            "description": "Resume"
+        },"\\RouterCancelNavigation":{
+            "prefix": "\\RouterCancelNavigation",
+            "body": "<RouterCancelNavigation ${1:}/>",
+            "description": "RouterCancelNavigation"
+        },"\\RouterModify":{
+            "prefix": "\\RouterModify",
+            "body": "<RouterModify ${1:}/>",
+            "description": "RouterModify"
+        },"\\ScrollableGoto":{
+            "prefix": "\\ScrollableGoto",
+            "body": "<ScrollableGoto ${1:}/>",
+            "description": "ScrollableGoto"
+        },"\\ScrollTo":{
+            "prefix": "\\ScrollTo",
+            "body": "<ScrollTo ${1:}/>",
+            "description": "ScrollTo"
+        },"\\SendToBack":{
+            "prefix": "\\SendToBack",
+            "body": "<SendToBack ${1:}/>",
+            "description": "SendToBack"
+        },"\\Set":{
+            "prefix": "\\Set",
+            "body": "<Set ${1:}/>",
+            "description": "Set"
+        },"\\SetSwipeActive":{
+            "prefix": "\\SetSwipeActive",
+            "body": "<SetSwipeActive ${1:}/>",
+            "description": "SetSwipeActive"
+        },"\\Show":{
+            "prefix": "\\Show",
+            "body": "<Show ${1:}/>",
+            "description": "Show"
+        },"\\Stop":{
+            "prefix": "\\Stop",
+            "body": "<Stop ${1:}/>",
+            "description": "Stop"
+        },"\\StopLoading":{
+            "prefix": "\\StopLoading",
+            "body": "<StopLoading ${1:}/>",
+            "description": "StopLoading"
+        },"\\TimelineAction":{
+            "prefix": "\\TimelineAction",
+            "body": "<TimelineAction ${1:}/>",
+            "description": "TimelineAction"
+        },"\\Toggle":{
+            "prefix": "\\Toggle",
+            "body": "<Toggle ${1:}/>",
+            "description": "Toggle"
+        },"\\ToggleSelection":{
+            "prefix": "\\ToggleSelection",
+            "body": "<ToggleSelection ${1:}/>",
+            "description": "ToggleSelection"
+        },"\\ToggleSwipeActive":{
+            "prefix": "\\ToggleSwipeActive",
+            "body": "<ToggleSwipeActive ${1:}/>",
+            "description": "ToggleSwipeActive"
+        },"\\TransitionLayout":{
+            "prefix": "\\TransitionLayout",
+            "body": "<TransitionLayout ${1:}/>",
+            "description": "TransitionLayout"
+        },"\\TransitionState":{
+            "prefix": "\\TransitionState",
+            "body": "<TransitionState ${1:}/>",
+            "description": "TransitionState"
+        },"\\Vibrate":{
+            "prefix": "\\Vibrate",
+            "body": "<Vibrate ${1:}/>",
+            "description": "Vibrate"
+        },"\\FileImageSource":{
+            "prefix": "\\FileImageSource",
+            "body": "<FileImageSource ${1:}/>",
+            "description": "FileImageSource"
+        },"\\HttpImageSource":{
+            "prefix": "\\HttpImageSource",
+            "body": "<HttpImageSource ${1:}/>",
+            "description": "HttpImageSource"
+        },"\\MultiDensityImageSource":{
+            "prefix": "\\MultiDensityImageSource",
+            "body": "<MultiDensityImageSource ${1:}/>",
+            "description": "MultiDensityImageSource"
+        },"\\TextureImageSource":{
+            "prefix": "\\TextureImageSource",
+            "body": "<TextureImageSource ${1:}/>",
+            "description": "TextureImageSource"
+        }
+    }

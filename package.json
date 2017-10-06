@@ -1,0 +1,21 @@
+{
+    "name": "fuseautocomplete",
+    "displayName": "FuseAutoComplete",
+    "description": "Fuse Markup AutoComplete",
+    "version": "1.0.1",
+    "publisher": "QuantumLabs",
+    "engines": {
+        "vscode": "^0.10.5"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "ux",
+                "path": "./snippets/snippets.json"
+            }
+        ]
+    }
+}
