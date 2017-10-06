@@ -6,19 +6,23 @@ FuseAutoComplete will generate the following code:
 
 Example:
 
-Type ```StackPa``` then select the StackPanel option:
+Type `StackPa` then select the StackPanel option:
 
-```html 
+```
+html 
 <StackPanel|>
     |
-</StackPanel>```
+</StackPanel>
+```
 
 Your typing cursor will be on two positions. By default it will appear on the first pipe. If you press the tab button, your cursor will move to the second pipe on the example
 
-If you type the tag name with ```\``` at beginning like: ```\StackPanel``` you will get a single tag:
+If you type the tag name with `\` at beginning like: `\StackPanel` you will get a single tag:
 
-```html
-<StackPanel />```
+```
+html
+<StackPanel />
+```
 
 ## Features
 
