@@ -2208,5 +2208,32 @@
         "ux:":{
             "prefix": "ux:",
             "body": "ux:${1|Property,Class,Name,Global,Dependency,Key,Template,Binding,AutoBind,Test|}=\"${2:}\" "
+        },
+
+        /* PROPERTY ATRIBUTES */
+        "string": {
+            "prefix": "string",
+            "body": "<string ux:Property=\"${1:}\" />"
+        },"float": {
+            "prefix": "float",
+            "body": "<float ux:Property=\"${1:}\" />"
+        },"float2": {
+            "prefix": "float2",
+            "body": "<float2 ux:Property=\"${1:}\" />"
+        },"float3": {
+            "prefix": "float3",
+            "body": "<float3 ux:Property=\"${1:}\" />"
+        },"float4": {
+            "prefix": "float4",
+            "body": "<float4 ux:Property=\"${1:}\" />"
+        },"bool": {
+            "prefix": "bool",
+            "body": "<bool ux:Property=\"${1:}\" />"
+        },"object": {
+            "prefix": "object",
+            "body": "<object ux:Property=\"${1:}\" />"
+        },"Size": {
+            "prefix": "Size",
+            "body": "<Size ux:Property=\"${1:}\" />"
         }
     }

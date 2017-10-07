@@ -22,6 +22,14 @@ If you type the tag name with `\` at beginning like: `\StackPanel` you will get 
 <StackPanel />
 ```
 
+Type properties for ux:Class, are able to autocomplete like writing `string` will turn into:
+
+```
+<string ux:Property="|" />
+```
+
+UX atributes, like `ux:Class` are also able to autocomplete with a list. Writing `ux:` you will get a list with: `ux:Name, ux:Class, ux:Property` etc.
+
 ## Features
 
 - Auto complete and indexing tags.
