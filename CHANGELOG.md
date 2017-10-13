@@ -1,7 +1,6 @@
 # Change Log
-All notable changes to the "fuseautocomplete" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+Circle & Rectangle now autocompletes with `Width` and `Height` properties
 
 ## [Unreleased]
 - Initial release
