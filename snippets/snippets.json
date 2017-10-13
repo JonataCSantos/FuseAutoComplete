@@ -61,7 +61,7 @@
             "description": "CameraView"
         },"Circle":{
             "prefix": "Circle",
-            "body": "<Circle${1:}>\n\t${2:}\n</Circle>",
+            "body": "<Circle Height=\"${1:}\" Width=\"${2:}\">\n\t${3:}\n</Circle>",
             "description": "Circle"
         },"CircularRangeBehavior":{
             "prefix": "CircularRangeBehavior",
@@ -449,7 +449,7 @@
             "description": "RangeControl2D"
         },"Rectangle":{
             "prefix": "Rectangle",
-            "body": "<Rectangle Height=\"${1:}\">\n\t${2:}\n</Rectangle>",
+            "body": "<Rectangle Height=\"${1:}\" Width=\"${2:}\">\n\t${3:}\n</Rectangle>",
             "description": "Rectangle"
         },"RegularPolygon":{
             "prefix": "RegularPolygon",
@@ -1164,7 +1164,7 @@
             "description": "CameraView"
         },"\\Circle":{
             "prefix": "\\Circle",
-            "body": "<Circle ${1:}/>",
+            "body": "<Circle Height=\"${1:}\" Width=\"${2:}\"/>",
             "description": "Circle"
         },"\\CircularRangeBehavior":{
             "prefix": "\\CircularRangeBehavior",
@@ -1552,7 +1552,7 @@
             "description": "RangeControl2D"
         },"\\Rectangle":{
             "prefix": "\\Rectangle",
-            "body": "<Rectangle Height=\"${ 1:}\"/>",
+            "body": "<Rectangle Height=\"${1:}\" Width=\"${2:}\"/>",
             "description": "Rectangle"
         },"\\RegularPolygon":{
             "prefix": "\\RegularPolygon",
@@ -2207,7 +2207,7 @@
         /* UX ATRIBUTES*/
         "ux:":{
             "prefix": "ux:",
-            "body": "ux:${1|Property,Class,Name,Global,Dependency,Key,Template,Binding,AutoBind,Test|}=\"${2:}\" "
+            "body": "ux:${1|Property,Class,Name,Global,Dependency,Key,Template,Binding,AutoBind,Test,InnerClass|}=\"${2:}\" "
         },
 
         /* PROPERTY ATRIBUTES */
